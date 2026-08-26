@@ -1,0 +1,24 @@
+node_modules/
+.env
+.env.*
+!.env.example
+
+runs/
+*.log
+
+.vscode/
+.idea/
+
+.freebuff/
+freebuff/
+.blackbox/
+.blackboxai/
+.claude/
+.cursor/
+# Generated test/runtime data
+data/sitepulse.json
+lighthouse-test.json
+report_test.html
+rundetail.json
+runs.json
+client/dist/

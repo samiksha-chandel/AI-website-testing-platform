@@ -1,0 +1,30 @@
+{
+  "name": "sitepulse",
+  "version": "1.0.0",
+  "description": "AI-Powered Website Testing Platform",
+  "type": "module",
+  "scripts": {
+    "dev": "concurrently \"node server.js\" \"cd client && npm run dev\"",
+    "build": "cd client && npm run build",
+    "start": "node server.js",
+    "setup": "npm install && cd client && npm install && npm run build"
+  },
+  "dependencies": {
+    "@axe-core/playwright": "^4.10.0",
+    "cheerio": "^1.0.0",
+    "concurrently": "^9.0.1",
+    "cors": "^2.8.5",
+    "express": "^4.21.0",
+    "lighthouse": "^13.4.1",
+    "node-cron": "^3.0.3",
+    "node-fetch": "^3.3.2",
+    "playwright": "^1.48.0",
+    "puppeteer": "^23.5.0",
+    "socket.io": "^4.7.5",
+    "sql.js": "^1.14.2",
+    "uuid": "^10.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
