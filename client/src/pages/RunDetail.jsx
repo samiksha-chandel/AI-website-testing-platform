@@ -1,5 +1,5 @@
 import React, { useEffect, useState, useCallback } from 'react';
-import { useParams, Link } from 'react-router-dom';
+import { useParams, Link, useNavigate } from 'react-router-dom';
 import { useSocket } from '../App';
 import ScoreRing from '../components/ScoreRing';
 
@@ -10,21 +10,50 @@ const MODULE_LABELS = {
   functional: { label: 'Functional Testing', icon: '⚡', desc: 'AI-generated functional test cases' },
   accessibility: { label: 'Accessibility', icon: '♿', desc: 'WCAG compliance with axe-core' },
   performance: { label: 'Performance', icon: '🚀', desc: 'Lighthouse metrics and timing analysis' },
-  security: { label: 'Security', icon: '🔒', desc: 'Security headers and vulnerability analysis' },
+  security: { label: 'Security', icon: '🔒', desc: 'OWASP ZAP and security header analysis' },
   seo: { label: 'SEO', icon: '📊', desc: 'Search engine optimization analysis' },
   brokenLinks: { label: 'Broken Links', icon: '🔗', desc: 'HTTP link verification' },
+  sslTls: { label: 'SSL/TLS', icon: '🔐', desc: 'SSL/TLS certificate and protocol analysis' },
 };
+
+const SEVERITY_ORDER = ['CRITICAL', 'HIGH', 'MEDIUM', 'LOW', 'INFORMATIONAL'];
+const SEVERITY_COLORS = {
+  CRITICAL: 'bg-red-500/20 text-red-400',
+  HIGH: 'bg-orange-500/20 text-orange-400',
+  MEDIUM: 'bg-yellow-500/20 text-yellow-400',
+  LOW: 'bg-slate-500/20 text-slate-400',
+  INFORMATIONAL: 'bg-blue-500/20 text-blue-400',
+};
+
+function sortFindings(findings) {
+  return [...findings].sort((a, b) => {
+    const orderA = SEVERITY_ORDER.indexOf(a.severity);
+    const orderB = SEVERITY_ORDER.indexOf(b.severity);
+    if (orderA !== orderB) return orderA - orderB;
+    // Secondary: by confidence if available
+    const conf = { High: 0, Medium: 1, Low: 2 };
+    const confA = conf[a.confidence] ?? 1;
+    const confB = conf[b.confidence] ?? 1;
+    if (confA !== confB) return confA - confB;
+    // Tertiary: by affected URL / name
+    return (a.url || a.ruleId || '').localeCompare(b.url || b.ruleId || '');
+  });
+}
 
 export default function RunDetail() {
   const { runId } = useParams();
+  const navigate = useNavigate();
   const socket = useSocket();
   const [run, setRun] = useState(null);
   const [expandedModule, setExpandedModule] = useState(null);
   const [loading, setLoading] = useState(true);
+  const [cancelling, setCancelling] = useState(false);
+  const [deleting, setDeleting] = useState(false);
 
   const fetchRun = useCallback(async () => {
     try {
       const res = await fetch(`${API_BASE}/runs/${runId}`);
+      if (!res.ok) { setLoading(false); return; }
       const data = await res.json();
       setRun(data);
     } catch (err) {
@@ -33,9 +62,7 @@ export default function RunDetail() {
     setLoading(false);
   }, [runId]);
 
-  useEffect(() => {
-    fetchRun();
-  }, [fetchRun]);
+  useEffect(() => { fetchRun(); }, [fetchRun]);
 
   useEffect(() => {
     if (!socket) return;
@@ -45,7 +72,6 @@ export default function RunDetail() {
     socket.on('run:complete', handleUpdate);
     socket.on('module:complete', handleUpdate);
     
-    // Poll while running
     const interval = setInterval(() => {
       if (run?.status === 'running' || run?.status === 'crawling') {
         fetchRun();
@@ -58,6 +84,37 @@ export default function RunDetail() {
       clearInterval(interval);
     };
   }, [socket, runId, run?.status, fetchRun]);
+
+  const handleCancel = async () => {
+    if (!confirm('Are you sure you want to stop this scan?')) return;
+    setCancelling(true);
+    try {
+      await fetch(`${API_BASE}/runs/${runId}/cancel`, { method: 'POST' });
+      // Poll until cancelled
+      setTimeout(fetchRun, 500);
+    } catch (err) {
+      console.error('Failed to cancel:', err);
+    }
+    setCancelling(false);
+  };
+
+  const handleDelete = async () => {
+    if (!confirm('Delete this scan and all its results? This cannot be undone.')) return;
+    setDeleting(true);
+    try {
+      const res = await fetch(`${API_BASE}/runs/${runId}`, { method: 'DELETE' });
+      if (res.ok) {
+        navigate('/reports');
+      } else {
+        const data = await res.json();
+        alert(data.error || 'Failed to delete');
+      }
+    } catch (err) {
+      console.error('Failed to delete:', err);
+      alert('Failed to delete scan');
+    }
+    setDeleting(false);
+  };
 
   if (loading) {
     return (
@@ -77,6 +134,7 @@ export default function RunDetail() {
   }
 
   const isRunning = run.status === 'running' || run.status === 'crawling';
+  const isCancelled = run.status === 'cancelled';
   const modules = run.modules || [];
 
   return (
@@ -99,13 +157,40 @@ export default function RunDetail() {
               <span>{run.started_at ? new Date(run.started_at).toLocaleString() : ''}</span>
               {run.duration_ms && <span>{(run.duration_ms / 1000).toFixed(1)}s</span>}
             </div>
+            {isCancelled && (
+              <div className="mt-2 px-3 py-1.5 rounded-lg bg-amber-500/10 border border-amber-500/20 inline-flex items-center gap-2">
+                <span className="w-2 h-2 bg-amber-400 rounded-full" />
+                <span className="text-xs text-amber-400 font-medium">Scan cancelled — partial results shown</span>
+              </div>
+            )}
+            {run.error && (
+              <div className="mt-2 px-3 py-1.5 rounded-lg bg-red-500/10 border border-red-500/20">
+                <span className="text-xs text-red-400">{run.error}</span>
+              </div>
+            )}
           </div>
           <div className="flex items-center gap-3">
             {isRunning && (
-              <span className="flex items-center gap-2 px-3 py-1.5 rounded-full bg-blue-500/10 text-blue-400 text-sm">
-                <span className="w-2 h-2 bg-blue-400 rounded-full animate-status-pulse" />
-                Running
-              </span>
+              <button
+                onClick={handleCancel}
+                disabled={cancelling}
+                className="px-4 py-2 rounded-lg bg-red-500/10 border border-red-500/20 text-sm text-red-400 hover:bg-red-500/20 disabled:opacity-40 transition-all flex items-center gap-2"
+              >
+                <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+                  <path strokeLinecap="round" strokeLinejoin="round" d="M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                  <path strokeLinecap="round" strokeLinejoin="round" d="M9 10a1 1 0 011-1h4a1 1 0 011 1v4a1 1 0 01-1 1h-4a1 1 0 01-1-1v-4z" />
+                </svg>
+                {cancelling ? 'Cancelling...' : 'Stop Scan'}
+              </button>
+            )}
+            {!isRunning && (
+              <button
+                onClick={handleDelete}
+                disabled={deleting}
+                className="px-4 py-2 rounded-lg bg-red-500/10 border border-red-500/20 text-sm text-red-400 hover:bg-red-500/20 disabled:opacity-40 transition-all"
+              >
+                {deleting ? 'Deleting...' : 'Delete'}
+              </button>
             )}
             <a 
               href={`/api/runs/${runId}/report`} 
@@ -151,6 +236,16 @@ export default function RunDetail() {
           let metrics = {};
           try { findings = JSON.parse(mod.findings || '[]'); } catch (e) {}
           try { metrics = JSON.parse(mod.metrics || '{}'); } catch (e) {}
+
+          // Sort findings by severity (critical first)
+          const sortedFindings = sortFindings(findings);
+
+          // Calculate severity counts (conditional display)
+          const severityCounts = {};
+          for (const f of sortedFindings) {
+            const sev = f.severity || 'LOW';
+            severityCounts[sev] = (severityCounts[sev] || 0) + 1;
+          }
 
           return (
             <div key={mod.id} className="rounded-2xl glass overflow-hidden">
@@ -208,25 +303,60 @@ export default function RunDetail() {
                     </div>
                   )}
 
+                  {/* Findings Severity Summary — only show non-zero counts */}
+                  {sortedFindings.length > 0 && (
+                    <div className="mt-4 flex items-center gap-3 flex-wrap">
+                      {SEVERITY_ORDER.filter(sev => (severityCounts[sev] || 0) > 0).map(sev => (
+                        <span
+                          key={sev}
+                          className={`text-[11px] px-2.5 py-1 rounded-full font-semibold ${SEVERITY_COLORS[sev]}`}
+                        >
+                          {sev}: {severityCounts[sev]}
+                        </span>
+                      ))}
+                    </div>
+                  )}
+
                   {/* Findings */}
-                  {findings.length > 0 && (
+                  {sortedFindings.length > 0 && (
                     <div className="mt-4">
-                      <h4 className="text-sm font-semibold text-slate-300 mb-3">Findings</h4>
+                      <h4 className="text-sm font-semibold text-slate-300 mb-3">
+                        Findings ({sortedFindings.length})
+                      </h4>
                       <div className="space-y-2">
-                        {findings.map((finding, i) => (
+                        {sortedFindings.map((finding, i) => (
                           <div key={i} className="p-3 rounded-lg bg-white/[0.02] border border-white/5">
-                            <div className="flex items-center gap-2 mb-1">
+                            <div className="flex items-center gap-2 mb-1 flex-wrap">
                               <SeverityBadge severity={finding.severity} />
                               {finding.ruleId && (
                                 <code className="text-[11px] text-slate-500 font-mono">{finding.ruleId}</code>
                               )}
+                              {finding.confidence && (
+                                <span className="text-[10px] text-slate-600">({finding.confidence})</span>
+                              )}
+                              {finding.source && (
+                                <span className="text-[10px] text-slate-600">via {finding.source}</span>
+                              )}
                               {finding.module && (
-                                <span className="text-[11px] text-slate-600">via {finding.module}</span>
+                                <span className="text-[10px] text-slate-600">via {finding.module}</span>
                               )}
                             </div>
-                            <p className="text-sm text-slate-300">{finding.description || finding.help || finding.testName || '-'}</p>
+                            <p className="text-sm text-slate-300">{finding.description || finding.help || finding.testName || finding.alertName || '-'}</p>
+                            {finding.recommendation && (
+                              <p className="text-xs text-slate-400 mt-1">💡 {finding.recommendation}</p>
+                            )}
                             {finding.url && (
                               <p className="text-xs text-slate-500 mt-1 font-mono truncate">{finding.url}</p>
+                            )}
+                            {finding.screenshot && (
+                              <div className="mt-2">
+                                <img
+                                  src={`/api/runs/${runId}/screenshots/${finding.screenshot.replace('evidence/', '')}`}
+                                  alt={`Evidence: ${finding.title || finding.ruleId}`}
+                                  className="rounded-lg border border-white/10 max-h-48 object-contain cursor-pointer hover:border-white/30 transition-all"
+                                  onError={(e) => { e.target.style.display = 'none'; }}
+                                />
+                              </div>
                             )}
                           </div>
                         ))}
@@ -234,7 +364,7 @@ export default function RunDetail() {
                     </div>
                   )}
 
-                  {findings.length === 0 && Object.keys(metrics).length === 0 && !mod.error && (
+                  {sortedFindings.length === 0 && Object.keys(metrics).length === 0 && !mod.error && (
                     <p className="text-sm text-slate-500 text-center py-6">No findings</p>
                   )}
                 </div>
@@ -255,6 +385,7 @@ function StatusBadge({ status }) {
     unavailable: 'bg-slate-500/10 text-slate-400',
     queued: 'bg-slate-500/10 text-slate-500',
     timeout: 'bg-amber-500/10 text-amber-400',
+    cancelled: 'bg-amber-500/10 text-amber-400',
   };
   
   return (
@@ -271,14 +402,8 @@ function ScoreBadge({ score }) {
 }
 
 function SeverityBadge({ severity }) {
-  const styles = {
-    CRITICAL: 'bg-red-500/20 text-red-400',
-    HIGH: 'bg-orange-500/20 text-orange-400',
-    MEDIUM: 'bg-yellow-500/20 text-yellow-400',
-    LOW: 'bg-slate-500/20 text-slate-400',
-  };
   return (
-    <span className={`text-[10px] px-1.5 py-0.5 rounded font-semibold ${styles[severity] || styles.LOW}`}>
+    <span className={`text-[10px] px-1.5 py-0.5 rounded font-semibold ${SEVERITY_COLORS[severity] || SEVERITY_COLORS.LOW}`}>
       {severity}
     </span>
   );

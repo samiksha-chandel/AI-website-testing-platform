@@ -8,6 +8,7 @@ const MODULE_LABELS = {
   security: { label: 'Security', icon: '🔒' },
   seo: { label: 'SEO', icon: '📊' },
   brokenLinks: { label: 'Broken Links', icon: '🔗' },
+  sslTls: { label: 'SSL/TLS', icon: '🔐' },
 };
 
 const STATUS_ICONS = {
@@ -17,6 +18,7 @@ const STATUS_ICONS = {
   error: { icon: '✗', color: 'text-red-400' },
   unavailable: { icon: '⊘', color: 'text-slate-500' },
   timeout: { icon: '◷', color: 'text-amber-400' },
+  cancelled: { icon: '⊘', color: 'text-amber-400' },
 };
 
 export default function ModuleStatusRow({ moduleName, status, score, duration, findingsCount }) {
@@ -42,6 +44,7 @@ export default function ModuleStatusRow({ moduleName, status, score, duration, f
              status?.toLowerCase() === 'completed' ? 'Complete' :
              status?.toLowerCase() === 'queued' ? 'Queued' :
              status?.toLowerCase() === 'unavailable' ? 'Unavailable' :
+             status?.toLowerCase() === 'cancelled' ? 'Cancelled' :
              status?.toLowerCase() || ''}
           </span>
         </div>

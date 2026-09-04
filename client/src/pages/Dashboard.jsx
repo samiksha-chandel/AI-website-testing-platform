@@ -8,7 +8,7 @@ import RunCard from '../components/RunCard';
 
 const API_BASE = '/api';
 
-const MODULE_ORDER = ['crawler', 'functional', 'accessibility', 'performance', 'security', 'seo', 'brokenLinks'];
+const MODULE_ORDER = ['crawler', 'functional', 'accessibility', 'performance', 'security', 'sslTls', 'seo', 'brokenLinks'];
 const MODULE_LABELS = {
   crawler: 'Crawl4AI',
   functional: 'Functional',
@@ -16,7 +16,8 @@ const MODULE_LABELS = {
   performance: 'Performance',
   security: 'Security',
   seo: 'SEO',
-  brokenLinks: 'Broken Links'
+  brokenLinks: 'Broken Links',
+  sslTls: 'SSL/TLS'
 };
 
 const MONITOR_STATUS_STYLES = {
@@ -172,6 +173,7 @@ export default function Dashboard() {
   }
 
   const isRunning = activeRun?.status === 'running' || activeRun?.status === 'crawling';
+  const isCancelled = activeRun?.status === 'cancelled';
 
   return (
     <div className="max-w-[1400px] mx-auto px-6 py-8">
@@ -206,6 +208,12 @@ export default function Dashboard() {
                     <span className="flex items-center gap-2 text-sm text-blue-400">
                       <span className="w-2 h-2 bg-blue-400 rounded-full animate-status-pulse" />
                       In Progress
+                    </span>
+                  )}
+                  {isCancelled && (
+                    <span className="flex items-center gap-2 text-sm text-amber-400">
+                      <span className="w-2 h-2 bg-amber-400 rounded-full" />
+                      Cancelled
                     </span>
                   )}
                   <button
