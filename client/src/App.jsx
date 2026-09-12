@@ -4,6 +4,7 @@ import { io } from 'socket.io-client';
 import Dashboard from './pages/Dashboard';
 import RunDetail from './pages/RunDetail';
 import Reports from './pages/Reports';
+import AirReport from './pages/AirReport';
 import Monitoring from './pages/Monitoring';
 import MonitorDetail from './pages/MonitorDetail';
 import Navigation from './components/Navigation';
@@ -39,6 +40,7 @@ export default function App() {
           <Routes>
             <Route path="/" element={<Dashboard />} />
             <Route path="/run/:runId" element={<RunDetail />} />
+            <Route path="/run/:runId/ai" element={<AirReport />} />
             <Route path="/reports" element={<Reports />} />
             <Route path="/monitoring" element={<Monitoring />} />
             <Route path="/monitoring/:monitorId" element={<MonitorDetail />} />

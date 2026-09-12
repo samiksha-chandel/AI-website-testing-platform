@@ -1,11 +1,13 @@
 import React, { useEffect, useState } from 'react';
-import { Link } from 'react-router-dom';
+import { Link, useNavigate } from 'react-router-dom';
 import EmptyState from '../components/EmptyState';
 
 const API_BASE = '/api';
 
 export default function Reports() {
+  const navigate = useNavigate();
   const [runs, setRuns] = useState([]);
+  const [aiStatusMap, setAiStatusMap] = useState({});
   const [loading, setLoading] = useState(true);
   const [deleting, setDeleting] = useState(null);
 
@@ -22,6 +24,29 @@ export default function Reports() {
   useEffect(() => {
     fetchRuns();
   }, []);
+
+  // Periodically refresh AI-status for runs that are already completed (cheap head request)
+  useEffect(() => {
+    if (loading) return;
+    const interval = setInterval(async () => {
+      const ids = runs.map(r => r.id);
+      if (ids.length === 0) return;
+      const next = { ...aiStatusMap };
+      await Promise.allSettled(ids.map(async (id) => {
+        try {
+          const res = await fetch(`${API_BASE}/runs/${id}/ai-report/status`);
+          if (res.ok) {
+            const data = await res.json();
+            next[id] = data;
+          }
+        } catch (e) { /* ignore */ }
+      }));
+      setAiStatusMap(next);
+    }, 5000);
+    return () => clearInterval(interval);
+  }, [runs, loading, aiStatusMap]);
+
+  const [aiGenerating, setAiGenerating] = useState(null);
 
   const handleDelete = async (runId, e) => {
     e.preventDefault();
@@ -42,6 +67,25 @@ export default function Reports() {
       alert('Failed to delete report');
     }
     setDeleting(null);
+  };
+
+  const handleGenerateAi = async (runId) => {
+    if (aiGenerating === runId) return;
+    setAiGenerating(runId);
+    try {
+      // Trigger background generation (returns immediately)
+      const res = await fetch(`${API_BASE}/runs/${runId}/ai-report/generate`, { method: 'POST' });
+      if (!res.ok) {
+        const data = await res.json().catch(() => ({}));
+        alert(data.error || 'Failed to generate AI report');
+        return;
+      }
+      // Move to the dedicated AI report page; it will poll until a terminal state is reached
+      navigate(`/run/${runId}/ai`);
+    } catch (err) {
+      alert('Failed to generate AI report');
+      setAiGenerating(null);
+    }
   };
 
   if (loading) {
@@ -137,6 +181,48 @@ export default function Reports() {
                     PDF
                   </a>
                 </div>
+
+                {/* AI Report actions */}
+                {run.status === 'completed' && (
+                  <div className="mt-4 flex gap-2 flex-wrap">
+                    {aiStatusMap[run.id]?.status === 'completed' ? (
+                      <>
+                        <Link
+                          to={`/run/${run.id}/ai`}
+                          className="flex-1 text-center text-xs px-3 py-2 rounded-lg bg-emerald-500/20 hover:bg-emerald-500/30 text-emerald-400 transition-all"
+                        >
+                          ✨ AI Explained Report
+                        </Link>
+                        <a
+                          href={`/api/runs/${run.id}/ai-report/download`}
+                          target="_blank"
+                          className="flex-1 text-center text-xs px-3 py-2 rounded-lg bg-brand-600/20 hover:bg-brand-600/30 text-brand-400 transition-all"
+                        >
+                          Download AI Explained Report
+                        </a>
+                      </>
+                    ) : aiStatusMap[run.id]?.status === 'generating' || aiGenerating === run.id ? (
+                      <div className="flex-1 text-center text-xs px-3 py-2 rounded-lg bg-blue-500/10 text-blue-400 flex items-center justify-center gap-2">
+                        <div className="w-3 h-3 border border-blue-400 border-t-transparent rounded-full animate-spin" />
+                        Generating AI report…
+                      </div>
+                    ) : aiStatusMap[run.id]?.status === 'failed' || aiStatusMap[run.id]?.status === 'rate_limited' ? (
+                      <button
+                        onClick={() => handleGenerateAi(run.id)}
+                        className="flex-1 text-center text-xs px-3 py-2 rounded-lg bg-red-500/10 hover:bg-red-500/20 text-red-400 transition-all"
+                      >
+                        {aiStatusMap[run.id]?.status === 'rate_limited' ? 'Groq limit — Retry AI Report' : 'Retry AI Report'}
+                      </button>
+                    ) : (
+                      <button
+                        onClick={() => handleGenerateAi(run.id)}
+                        className="flex-1 text-center text-xs px-3 py-2 rounded-lg bg-white/[0.05] hover:bg-white/[0.1] text-slate-300 transition-all"
+                      >
+                        ✨ Generate AI Explained Report
+                      </button>
+                    )}
+                  </div>
+                )}
               </div>
             );
           })}

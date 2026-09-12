@@ -15,8 +15,9 @@ import store, {
   createMonitoringRun, updateMonitoringRun, getMonitorRuns, getMonitorRunHistory, getLatestMonitorRun
 } from './lib/db.js';
 import { executeRun, cancelRun, isRunActive, getActiveRuns, reconcileStaleRuns } from './lib/runner.js';
-import { generateHTMLReport, generatePDFReport } from './lib/reporter.js';
+import { generateHTMLReport, generatePDFReport, generateAiExplanations, saveAiReport, readAiReport, aiReportExists, injectAiExplanations } from './lib/reporter.js';
 import { startMonitoring, runMonitorNow, executeMonitorCheck, getRunningMonitors } from './lib/monitor.js';
+import { buildReportContext } from './lib/reporter.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const PORT = process.env.PORT === '0' || !process.env.PORT ? 3001 : parseInt(process.env.PORT);
@@ -223,6 +224,182 @@ app.get('/api/runs/:runId/report', (req, res) => {
   }
 });
 
+// Track in-flight AI generations to prevent duplicates
+const aiGenerationJobs = new Map(); // runId -> { status, error, startedAt, partialCount, totalFindings }
+
+// AI report: serve saved version or generate on demand
+app.get('/api/runs/:runId/ai-report', async (req, res) => {
+  try {
+    const runId = sanitizeId(req.params.runId);
+    if (!runId) return res.status(400).json({ error: 'Invalid run ID' });
+
+    // If a saved AI report exists, return it immediately — no Groq call
+    const saved = readAiReport(runId);
+    if (saved) {
+      res.type('text/html').send(saved);
+      return;
+    }
+
+    // If generation is in progress, tell the client to poll
+    const job = aiGenerationJobs.get(runId);
+    if (job && job.status === 'generating') {
+      return res.status(202).json({ status: 'generating', message: 'AI report is being generated. Please poll /ai-report/status.' });
+    }
+
+    // Otherwise generate on demand (for backwards compat)
+    await doAiGeneration(runId);
+    const savedAfter = readAiReport(runId);
+    if (savedAfter) {
+      res.type('text/html').send(savedAfter);
+    } else {
+      res.status(500).json({ error: 'AI generation failed' });
+    }
+  } catch (error) {
+    console.error('AI report error for', req.params.runId, ':', error.message);
+    res.status(500).json({ error: error.message });
+  }
+});
+
+// Background AI generation trigger — returns immediately
+app.post('/api/runs/:runId/ai-report/generate', (req, res) => {
+  try {
+    const runId = sanitizeId(req.params.runId);
+    if (!runId) return res.status(400).json({ error: 'Invalid run ID' });
+
+    // If already saved, just return success
+    if (aiReportExists(runId)) {
+      const job = aiGenerationJobs.get(runId);
+      const generatedCount = job && typeof job.partialCount === 'number' ? job.partialCount : 0;
+      const totalApplicable = job && typeof job.totalFindings === 'number' ? job.totalFindings : 0;
+      return res.json({ status: 'completed', message: 'AI report already exists', partialCount: generatedCount, totalFindings: totalApplicable });
+    }
+
+    // If already generating, don't start another
+    const existing = aiGenerationJobs.get(runId);
+    if (existing && existing.status === 'generating') {
+      return res.json({ status: 'generating', message: 'AI report is already being generated' });
+    }
+
+    // Start background generation (fire-and-forget)
+    aiGenerationJobs.set(runId, { status: 'generating', error: null, startedAt: new Date().toISOString(), partialCount: 0, totalFindings: 0 });
+    doAiGeneration(runId).catch(err => {
+      console.error('[AI] Background generation failed for', runId, ':', err.message);
+      const job = aiGenerationJobs.get(runId);
+      if (job) {
+        if (err.message === 'GROQ_DAILY_LIMIT') {
+          job.status = 'rate_limited';
+          job.error = 'Groq daily token limit reached';
+          console.log('[AI] Groq daily limit reached for run', runId);
+        } else {
+          job.status = 'error';
+          job.error = err.message;
+        }
+      }
+    });
+    // Compute total applicable findings for client-side messaging
+    let totalApplicable = 0;
+    const run = getRun(runId);
+    if (run) totalApplicable = countApplicableFindings(run);
+    res.json({ status: 'generating', message: 'AI report generation started', totalFindings: totalApplicable });
+  } catch (error) {
+    res.status(500).json({ error: error.message });
+  }
+});
+
+// Internal helper: run the actual generation and persist
+async function doAiGeneration(runId) {
+  console.log(`[AI] Starting generation for run ${runId}`);
+  let result;
+  try {
+    result = await generateAiExplanations(runId);
+  } catch (err) {
+    console.log(`[AI] Generation failed for run ${runId}: ${err.message}`);
+    throw err;
+  }
+  const explanations = result.explanations || {};
+  const generatedCount = result.findingCount != null ? result.findingCount : Object.keys(explanations).length;
+  const totalCount = result.totalCount != null ? result.totalCount : generatedCount;
+  // Save whatever we have (may be partial if some batches failed)
+  const ctx = buildReportContext(runId);
+  const html = injectAiExplanations(ctx.context, explanations);
+  saveAiReport(runId, html);
+  console.log(`[AI] Saved AI report for run ${runId} (${generatedCount}/${totalCount} explanations)`);
+  aiGenerationJobs.set(runId, { status: 'ready', error: null, partialCount: generatedCount, totalFindings: totalCount });
+}
+
+/**
+ * Count CRITICAL/HIGH/MEDIUM findings across completed modules for a run.
+ * Used purely for AI status messaging.
+ */
+function countApplicableFindings(run) {
+  if (!run || !run.modules) return 0;
+  let count = 0;
+  for (const mod of run.modules) {
+    if (mod.status !== 'completed') continue;
+    let findings = [];
+    try { findings = JSON.parse(mod.findings || '[]'); } catch (e) {}
+    for (const f of findings) {
+      const sev = (f.severity || '').toUpperCase();
+      if (sev === 'CRITICAL' || sev === 'HIGH' || sev === 'MEDIUM') count++;
+    }
+  }
+  return count;
+}
+
+// Download AI report as file — only serves already-generated reports
+app.get('/api/runs/:runId/ai-report/download', (req, res) => {
+  try {
+    const runId = sanitizeId(req.params.runId);
+    if (!runId) return res.status(400).json({ error: 'Invalid run ID' });
+
+    const saved = readAiReport(runId);
+    if (!saved) {
+      return res.status(404).json({ error: 'AI report not yet generated. Generate it first from the Reports page.' });
+    }
+
+    res.setHeader('Content-Type', 'text/html; charset=utf-8');
+    res.setHeader('Content-Disposition', `attachment; filename="site-pulse-ai-report-${runId.slice(0, 8)}.html"`);
+    res.send(saved);
+  } catch (error) {
+    console.error('AI report download error for', req.params.runId, ':', error.message);
+    res.status(500).json({ error: error.message });
+  }
+});
+
+// AI report status: terminal, generating, or not-started
+app.get('/api/runs/:runId/ai-report/status', (req, res) => {
+  try {
+    const runId = sanitizeId(req.params.runId);
+    if (!runId) return res.status(400).json({ error: 'Invalid run ID' });
+    const exists = aiReportExists(runId);
+    const job = aiGenerationJobs.get(runId);
+    let status = 'not_started';
+    let error = null;
+    let partialCount = 0;
+    let totalFindings = 0;
+    if (job) {
+      if (job.status === 'generating') status = 'generating';
+      else if (job.status === 'ready') status = exists ? 'completed' : 'error';
+      else if (job.status === 'error') { status = 'failed'; error = job.error || 'AI generation failed'; }
+      else if (job.status === 'rate_limited') { status = 'rate_limited'; error = job.error || 'Groq daily token limit reached'; }
+      if (typeof job.partialCount === 'number') partialCount = job.partialCount;
+      if (typeof job.totalFindings === 'number') totalFindings = job.totalFindings;
+    }
+    // After a server restart the in-memory job map is empty, but the
+    // ai-report.html file on disk is the source of truth for completion.
+    if (exists && status === 'not_started') status = 'completed';
+    res.json({
+      exists,
+      status,
+      error,
+      partialCount,
+      totalFindings,
+    });
+  } catch (error) {
+    res.status(500).json({ error: error.message });
+  }
+});
+
 // Generate PDF report
 app.get('/api/runs/:runId/report/pdf', async (req, res) => {
   try {
@@ -233,6 +410,37 @@ app.get('/api/runs/:runId/report/pdf', async (req, res) => {
     res.sendFile(pdfPath);
   } catch (error) {
     res.status(500).json({ error: error.message });
+  }
+});
+
+// Generate PDF from saved AI report (only serves already-generated reports)
+app.get('/api/runs/:runId/ai-report/pdf', async (req, res) => {
+  try {
+    const runId = sanitizeId(req.params.runId);
+    if (!runId) return res.status(400).json({ error: 'Invalid run ID' });
+    const saved = readAiReport(runId);
+    if (!saved) {
+      return res.status(404).json({ error: 'AI report not yet generated. Generate it first from the Reports page.' });
+    }
+    const { default: puppeteer } = await import('puppeteer');
+    const browser = await puppeteer.launch({
+      headless: true,
+      args: ['--no-sandbox', '--disable-setuid-sandbox']
+    });
+    const page = await browser.newPage();
+    await page.setContent(saved, { waitUntil: 'networkidle0' });
+    const pdfPath = join(__dirname, 'runs', runId, 'ai-report.pdf');
+    await page.pdf({
+      path: pdfPath,
+      format: 'A4',
+      printBackground: true,
+      margin: { top: '20px', bottom: '20px', left: '20px', right: '20px' }
+    });
+    await browser.close();
+    res.sendFile(pdfPath);
+  } catch (error) {
+    console.error('AI report PDF error for', req.params.runId, ':', error.message);
+    res.status(500).json({ error: 'Failed to generate AI report PDF: ' + error.message });
   }
 });
 
