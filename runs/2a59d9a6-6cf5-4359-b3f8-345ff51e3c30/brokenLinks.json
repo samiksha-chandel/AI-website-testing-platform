@@ -1,0 +1,2107 @@
+{
+  "results": [
+    {
+      "url": "https://cityhangaround.com/admin/page/create",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/admin/page/create",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/products/create",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/products/create",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/user/subscriptions/view",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/user/subscriptions/view",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/pages/custom/contact-us",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/pages/custom/contact-us",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/public-subscriptions",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/public-subscriptions",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/events/create",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/events/create",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/blog/create",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/blog/create",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/groups",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/groups",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/login",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/login",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/forgot-password",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/forgot-password",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/term/condition/view",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/term/condition/view",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/auth/google",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/auth/google",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/auth/facebook",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/auth/facebook",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/jaipur",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/jaipur",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/indore",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/indore",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/coimbatore",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/coimbatore",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/chandigarh",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/chandigarh",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/surat",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/surat",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/delhi-delhi",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/delhi-delhi",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/chennai",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/chennai",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/rajkot",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/rajkot",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/madurai",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/madurai",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/home",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/home",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/profile",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/profile",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/pages",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/pages",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/deals",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/deals",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/videos",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/videos",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/event/all",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/event/all",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/blog/all",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/blog/all",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/about/page/view",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/about/page/view",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/policy/page/view",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/policy/page/view",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/car-accessories-in-hyderabad",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/car-accessories-in-hyderabad",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/secunderabad",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/secunderabad",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/shopping-in-secunderabad",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/shopping-in-secunderabad",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/car-accessories-in-secunderabad",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/car-accessories-in-secunderabad",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/speed-track-car-decors",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/speed-track-car-decors",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/speed-track-car-decors/photo",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/speed-track-car-decors/photo",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/speed-track-car-decors/videos",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/speed-track-car-decors/videos",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/speed-track-car-decors/events",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/speed-track-car-decors/events",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/speed-track-car-decors/blogs",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/speed-track-car-decors/blogs",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/speed-track-car-decors/groups",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/speed-track-car-decors/groups",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/speed-track-car-decors/deals",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/speed-track-car-decors/deals",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/speed-track-car-decors/about",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/speed-track-car-decors/about",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/alirajpur/khandala/gymbag-grooming/approved-gym-listing/gymbag-grooming/gym-equipment",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/alirajpur/khandala/gymbag-grooming/approved-gym-listing/gymbag-grooming/gym-equipment",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/agar/badagaon/education/battle-arena-page/education/note-book",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/agar/badagaon/education/battle-arena-page/education/note-book",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/dibai/mahadev-chauraha-railway-road/indian-masala/jitin-sai-traders/indian-masala/dhaniya-powder-250-gm",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/dibai/mahadev-chauraha-railway-road/indian-masala/jitin-sai-traders/indian-masala/dhaniya-powder-250-gm",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/dibai/mahadev-chauraha-railway-road/washing-powder/jitin-sai-traders/washing-powder/surf-excel-detergent-1-kg",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/dibai/mahadev-chauraha-railway-road/washing-powder/jitin-sai-traders/washing-powder/surf-excel-detergent-1-kg",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/dibai/mahadev-chauraha-railway-road/cooking-oil/jitin-sai-traders/cooking-oil/fortune-refind-oil-1-liter",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/dibai/mahadev-chauraha-railway-road/cooking-oil/jitin-sai-traders/cooking-oil/fortune-refind-oil-1-liter",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/dibai/mahadev-chauraha-railway-road/bath-soap/jitin-sai-traders/bath-soap/lux-bathing-bar-100-gm-5",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/dibai/mahadev-chauraha-railway-road/bath-soap/jitin-sai-traders/bath-soap/lux-bathing-bar-100-gm-5",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/dibai/mahadev-chauraha-railway-road/indian-spices/jitin-sai-traders/indian-spices/mirch-powder-250-gm",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/dibai/mahadev-chauraha-railway-road/indian-spices/jitin-sai-traders/indian-spices/mirch-powder-250-gm",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/dibai/mahadev-chauraha-railway-road/indian-pickle/jitin-sai-traders/indian-pickle/mango-pickle-1-kg",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/dibai/mahadev-chauraha-railway-road/indian-pickle/jitin-sai-traders/indian-pickle/mango-pickle-1-kg",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/category/car-accessories",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/category/car-accessories",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/view/single/post/363",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/view/single/post/363",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/view/single/post/59",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/view/single/post/59",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/alirajpur/khandala/health-and-fitness/approved-gym-listing/gymbag-grooming/gym-equipment",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/deals/alirajpur/khandala/health-and-fitness/approved-gym-listing/gymbag-grooming/gym-equipment",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/agar/badagaon/game/battle-arena-page/education/note-book",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/deals/agar/badagaon/game/battle-arena-page/education/note-book",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/dibai/mahadev-chauraha-railway-road/kirana-stores-general-provision-stores/jitin-sai-traders/indian-masala/dhaniya-powder-250-gm",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/deals/dibai/mahadev-chauraha-railway-road/kirana-stores-general-provision-stores/jitin-sai-traders/indian-masala/dhaniya-powder-250-gm",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/dibai/mahadev-chauraha-railway-road/kirana-stores-general-provision-stores/jitin-sai-traders/washing-powder/surf-excel-detergent-1-kg",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/deals/dibai/mahadev-chauraha-railway-road/kirana-stores-general-provision-stores/jitin-sai-traders/washing-powder/surf-excel-detergent-1-kg",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/dibai/mahadev-chauraha-railway-road/kirana-stores-general-provision-stores/jitin-sai-traders/cooking-oil/fortune-refind-oil-1-liter",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/deals/dibai/mahadev-chauraha-railway-road/kirana-stores-general-provision-stores/jitin-sai-traders/cooking-oil/fortune-refind-oil-1-liter",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/dibai/mahadev-chauraha-railway-road/kirana-stores-general-provision-stores/jitin-sai-traders/bath-soap/lux-bathing-bar-100-gm-5",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/deals/dibai/mahadev-chauraha-railway-road/kirana-stores-general-provision-stores/jitin-sai-traders/bath-soap/lux-bathing-bar-100-gm-5",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/dibai/mahadev-chauraha-railway-road/kirana-stores-general-provision-stores/jitin-sai-traders/indian-spices/mirch-powder-250-gm",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/deals/dibai/mahadev-chauraha-railway-road/kirana-stores-general-provision-stores/jitin-sai-traders/indian-spices/mirch-powder-250-gm",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/dibai/mahadev-chauraha-railway-road/kirana-stores-general-provision-stores/jitin-sai-traders/indian-pickle/mango-pickle-1-kg",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/deals/dibai/mahadev-chauraha-railway-road/kirana-stores-general-provision-stores/jitin-sai-traders/indian-pickle/mango-pickle-1-kg",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/chanda-nagar",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/chanda-nagar",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/shopping-in-chanda-nagar",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/shopping-in-chanda-nagar",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/car-accessories-in-chanda-nagar",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/car-accessories-in-chanda-nagar",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/chanda-nagar/car-accessories/balaji-car-decors",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/chanda-nagar/car-accessories/balaji-car-decors",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/chanda-nagar/car-accessories/balaji-car-decors/photo",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/chanda-nagar/car-accessories/balaji-car-decors/photo",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/chanda-nagar/car-accessories/balaji-car-decors/videos",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/chanda-nagar/car-accessories/balaji-car-decors/videos",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/chanda-nagar/car-accessories/balaji-car-decors/events",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/chanda-nagar/car-accessories/balaji-car-decors/events",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/chanda-nagar/car-accessories/balaji-car-decors/blogs",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/chanda-nagar/car-accessories/balaji-car-decors/blogs",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/chanda-nagar/car-accessories/balaji-car-decors/groups",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/chanda-nagar/car-accessories/balaji-car-decors/groups",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/chanda-nagar/car-accessories/balaji-car-decors/deals",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/chanda-nagar/car-accessories/balaji-car-decors/deals",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/chanda-nagar/car-accessories/balaji-car-decors/about",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/chanda-nagar/car-accessories/balaji-car-decors/about",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/view/single/post/88",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/view/single/post/88",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/view/single/post/61",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/view/single/post/61",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/banjara-hills",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/banjara-hills",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/shopping-in-banjara-hills",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/shopping-in-banjara-hills",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/car-accessories-in-banjara-hills",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/car-accessories-in-banjara-hills",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/banjara-hills/car-accessories/indian-decars",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/banjara-hills/car-accessories/indian-decars",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/banjara-hills/car-accessories/indian-decars/photo",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/banjara-hills/car-accessories/indian-decars/photo",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/banjara-hills/car-accessories/indian-decars/videos",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/banjara-hills/car-accessories/indian-decars/videos",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/banjara-hills/car-accessories/indian-decars/events",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/banjara-hills/car-accessories/indian-decars/events",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/banjara-hills/car-accessories/indian-decars/blogs",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/banjara-hills/car-accessories/indian-decars/blogs",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/banjara-hills/car-accessories/indian-decars/groups",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/banjara-hills/car-accessories/indian-decars/groups",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/banjara-hills/car-accessories/indian-decars/deals",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/banjara-hills/car-accessories/indian-decars/deals",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/banjara-hills/car-accessories/indian-decars/about",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/banjara-hills/car-accessories/indian-decars/about",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/view/single/post/62",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/view/single/post/62",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/kondapur",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/kondapur",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/shopping-in-kondapur",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/shopping-in-kondapur",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/car-accessories-in-kondapur",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/car-accessories-in-kondapur",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/kondapur/car-accessories/hitech-wheels-centre",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/kondapur/car-accessories/hitech-wheels-centre",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/kondapur/car-accessories/hitech-wheels-centre/photo",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/kondapur/car-accessories/hitech-wheels-centre/photo",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/kondapur/car-accessories/hitech-wheels-centre/videos",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/kondapur/car-accessories/hitech-wheels-centre/videos",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/kondapur/car-accessories/hitech-wheels-centre/events",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/kondapur/car-accessories/hitech-wheels-centre/events",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/kondapur/car-accessories/hitech-wheels-centre/blogs",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/kondapur/car-accessories/hitech-wheels-centre/blogs",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/kondapur/car-accessories/hitech-wheels-centre/groups",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/kondapur/car-accessories/hitech-wheels-centre/groups",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/kondapur/car-accessories/hitech-wheels-centre/deals",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/kondapur/car-accessories/hitech-wheels-centre/deals",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/kondapur/car-accessories/hitech-wheels-centre/about",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/kondapur/car-accessories/hitech-wheels-centre/about",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/view/single/post/42",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/view/single/post/42",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/abids",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/abids",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/shopping-in-abids",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/shopping-in-abids",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/car-accessories-in-abids",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/car-accessories-in-abids",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/abids/car-accessories/jagadamba-motors",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/abids/car-accessories/jagadamba-motors",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/abids/car-accessories/jagadamba-motors/photo",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/abids/car-accessories/jagadamba-motors/photo",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/abids/car-accessories/jagadamba-motors/videos",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/abids/car-accessories/jagadamba-motors/videos",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/abids/car-accessories/jagadamba-motors/events",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/abids/car-accessories/jagadamba-motors/events",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/abids/car-accessories/jagadamba-motors/blogs",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/abids/car-accessories/jagadamba-motors/blogs",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/abids/car-accessories/jagadamba-motors/groups",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/abids/car-accessories/jagadamba-motors/groups",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/abids/car-accessories/jagadamba-motors/deals",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/abids/car-accessories/jagadamba-motors/deals",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/abids/car-accessories/jagadamba-motors/about",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/abids/car-accessories/jagadamba-motors/about",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/masab-tank",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/masab-tank",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/shopping-in-masab-tank",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/shopping-in-masab-tank",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/car-accessories-in-masab-tank",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/car-accessories-in-masab-tank",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/masab-tank/car-accessories/ak-motors",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/masab-tank/car-accessories/ak-motors",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/masab-tank/car-accessories/ak-motors/photo",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/masab-tank/car-accessories/ak-motors/photo",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/masab-tank/car-accessories/ak-motors/videos",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/masab-tank/car-accessories/ak-motors/videos",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/masab-tank/car-accessories/ak-motors/events",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/masab-tank/car-accessories/ak-motors/events",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/masab-tank/car-accessories/ak-motors/blogs",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/masab-tank/car-accessories/ak-motors/blogs",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/masab-tank/car-accessories/ak-motors/groups",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/masab-tank/car-accessories/ak-motors/groups",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/masab-tank/car-accessories/ak-motors/deals",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/masab-tank/car-accessories/ak-motors/deals",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/masab-tank/car-accessories/ak-motors/about",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/masab-tank/car-accessories/ak-motors/about",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/ambica-auto-agencies",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/ambica-auto-agencies",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/ambica-auto-agencies/photo",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/ambica-auto-agencies/photo",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/ambica-auto-agencies/videos",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/ambica-auto-agencies/videos",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/ambica-auto-agencies/events",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/ambica-auto-agencies/events",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/ambica-auto-agencies/blogs",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/ambica-auto-agencies/blogs",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/ambica-auto-agencies/groups",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/ambica-auto-agencies/groups",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/ambica-auto-agencies/deals",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/ambica-auto-agencies/deals",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/ambica-auto-agencies/about",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/ambica-auto-agencies/about",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/well-fit-car-seat-covers",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/well-fit-car-seat-covers",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/well-fit-car-seat-covers/photo",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/well-fit-car-seat-covers/photo",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/well-fit-car-seat-covers/videos",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/well-fit-car-seat-covers/videos",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/well-fit-car-seat-covers/events",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/well-fit-car-seat-covers/events",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/well-fit-car-seat-covers/blogs",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/well-fit-car-seat-covers/blogs",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/well-fit-car-seat-covers/groups",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/well-fit-car-seat-covers/groups",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/well-fit-car-seat-covers/deals",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/well-fit-car-seat-covers/deals",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/well-fit-car-seat-covers/about",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/well-fit-car-seat-covers/about",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/view/single/post/75",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/view/single/post/75",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/mehdipatnam",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/mehdipatnam",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/shopping-in-mehdipatnam",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/shopping-in-mehdipatnam",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/car-accessories-in-mehdipatnam",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/car-accessories-in-mehdipatnam",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/mehdipatnam/car-accessories/bade-miyan-wheels",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/mehdipatnam/car-accessories/bade-miyan-wheels",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/mehdipatnam/car-accessories/bade-miyan-wheels/photo",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/mehdipatnam/car-accessories/bade-miyan-wheels/photo",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/mehdipatnam/car-accessories/bade-miyan-wheels/videos",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/mehdipatnam/car-accessories/bade-miyan-wheels/videos",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/mehdipatnam/car-accessories/bade-miyan-wheels/events",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/mehdipatnam/car-accessories/bade-miyan-wheels/events",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/mehdipatnam/car-accessories/bade-miyan-wheels/blogs",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/mehdipatnam/car-accessories/bade-miyan-wheels/blogs",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/mehdipatnam/car-accessories/bade-miyan-wheels/groups",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/mehdipatnam/car-accessories/bade-miyan-wheels/groups",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/mehdipatnam/car-accessories/bade-miyan-wheels/deals",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/mehdipatnam/car-accessories/bade-miyan-wheels/deals",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/mehdipatnam/car-accessories/bade-miyan-wheels/about",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/hyderabad/mehdipatnam/car-accessories/bade-miyan-wheels/about",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    }
+  ],
+  "brokenLinks": [
+    {
+      "url": "https://cityhangaround.com/admin/page/create",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/products/create",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/user/subscriptions/view",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/pages/custom/contact-us",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/public-subscriptions",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/events/create",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/blog/create",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/groups",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/login",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/forgot-password",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/term/condition/view",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/auth/google",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/auth/facebook",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/jaipur",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/indore",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/coimbatore",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/chandigarh",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/surat",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/delhi-delhi",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/chennai",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/rajkot",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/madurai",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/home",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/profile",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/pages",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/deals",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/videos",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/event/all",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/blog/all",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/about/page/view",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/policy/page/view",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/car-accessories-in-hyderabad",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/secunderabad",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/shopping-in-secunderabad",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/car-accessories-in-secunderabad",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/speed-track-car-decors",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/speed-track-car-decors/photo",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/speed-track-car-decors/videos",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/speed-track-car-decors/events",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/speed-track-car-decors/blogs",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/speed-track-car-decors/groups",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/speed-track-car-decors/deals",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/speed-track-car-decors/about",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/alirajpur/khandala/gymbag-grooming/approved-gym-listing/gymbag-grooming/gym-equipment",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/agar/badagaon/education/battle-arena-page/education/note-book",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/dibai/mahadev-chauraha-railway-road/indian-masala/jitin-sai-traders/indian-masala/dhaniya-powder-250-gm",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/dibai/mahadev-chauraha-railway-road/washing-powder/jitin-sai-traders/washing-powder/surf-excel-detergent-1-kg",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/dibai/mahadev-chauraha-railway-road/cooking-oil/jitin-sai-traders/cooking-oil/fortune-refind-oil-1-liter",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/dibai/mahadev-chauraha-railway-road/bath-soap/jitin-sai-traders/bath-soap/lux-bathing-bar-100-gm-5",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/dibai/mahadev-chauraha-railway-road/indian-spices/jitin-sai-traders/indian-spices/mirch-powder-250-gm",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/dibai/mahadev-chauraha-railway-road/indian-pickle/jitin-sai-traders/indian-pickle/mango-pickle-1-kg",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/category/car-accessories",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/view/single/post/363",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/view/single/post/59",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/alirajpur/khandala/health-and-fitness/approved-gym-listing/gymbag-grooming/gym-equipment",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/agar/badagaon/game/battle-arena-page/education/note-book",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/dibai/mahadev-chauraha-railway-road/kirana-stores-general-provision-stores/jitin-sai-traders/indian-masala/dhaniya-powder-250-gm",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/dibai/mahadev-chauraha-railway-road/kirana-stores-general-provision-stores/jitin-sai-traders/washing-powder/surf-excel-detergent-1-kg",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/dibai/mahadev-chauraha-railway-road/kirana-stores-general-provision-stores/jitin-sai-traders/cooking-oil/fortune-refind-oil-1-liter",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/dibai/mahadev-chauraha-railway-road/kirana-stores-general-provision-stores/jitin-sai-traders/bath-soap/lux-bathing-bar-100-gm-5",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/dibai/mahadev-chauraha-railway-road/kirana-stores-general-provision-stores/jitin-sai-traders/indian-spices/mirch-powder-250-gm",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/dibai/mahadev-chauraha-railway-road/kirana-stores-general-provision-stores/jitin-sai-traders/indian-pickle/mango-pickle-1-kg",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/chanda-nagar",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/shopping-in-chanda-nagar",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/car-accessories-in-chanda-nagar",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/chanda-nagar/car-accessories/balaji-car-decors",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/chanda-nagar/car-accessories/balaji-car-decors/photo",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/chanda-nagar/car-accessories/balaji-car-decors/videos",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/chanda-nagar/car-accessories/balaji-car-decors/events",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/chanda-nagar/car-accessories/balaji-car-decors/blogs",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/chanda-nagar/car-accessories/balaji-car-decors/groups",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/chanda-nagar/car-accessories/balaji-car-decors/deals",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/chanda-nagar/car-accessories/balaji-car-decors/about",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/view/single/post/88",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/view/single/post/61",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/banjara-hills",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/shopping-in-banjara-hills",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/car-accessories-in-banjara-hills",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/banjara-hills/car-accessories/indian-decars",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/banjara-hills/car-accessories/indian-decars/photo",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/banjara-hills/car-accessories/indian-decars/videos",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/banjara-hills/car-accessories/indian-decars/events",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/banjara-hills/car-accessories/indian-decars/blogs",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/banjara-hills/car-accessories/indian-decars/groups",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/banjara-hills/car-accessories/indian-decars/deals",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/banjara-hills/car-accessories/indian-decars/about",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/view/single/post/62",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/kondapur",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/shopping-in-kondapur",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/car-accessories-in-kondapur",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/kondapur/car-accessories/hitech-wheels-centre",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/kondapur/car-accessories/hitech-wheels-centre/photo",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/kondapur/car-accessories/hitech-wheels-centre/videos",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/kondapur/car-accessories/hitech-wheels-centre/events",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/kondapur/car-accessories/hitech-wheels-centre/blogs",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/kondapur/car-accessories/hitech-wheels-centre/groups",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/kondapur/car-accessories/hitech-wheels-centre/deals",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/kondapur/car-accessories/hitech-wheels-centre/about",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/view/single/post/42",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/abids",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/shopping-in-abids",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/car-accessories-in-abids",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/abids/car-accessories/jagadamba-motors",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/abids/car-accessories/jagadamba-motors/photo",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/abids/car-accessories/jagadamba-motors/videos",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/abids/car-accessories/jagadamba-motors/events",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/abids/car-accessories/jagadamba-motors/blogs",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/abids/car-accessories/jagadamba-motors/groups",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/abids/car-accessories/jagadamba-motors/deals",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/abids/car-accessories/jagadamba-motors/about",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/masab-tank",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/shopping-in-masab-tank",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/car-accessories-in-masab-tank",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/masab-tank/car-accessories/ak-motors",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/masab-tank/car-accessories/ak-motors/photo",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/masab-tank/car-accessories/ak-motors/videos",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/masab-tank/car-accessories/ak-motors/events",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/masab-tank/car-accessories/ak-motors/blogs",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/masab-tank/car-accessories/ak-motors/groups",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/masab-tank/car-accessories/ak-motors/deals",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/masab-tank/car-accessories/ak-motors/about",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/ambica-auto-agencies",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/ambica-auto-agencies/photo",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/ambica-auto-agencies/videos",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/ambica-auto-agencies/events",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/ambica-auto-agencies/blogs",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/ambica-auto-agencies/groups",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/ambica-auto-agencies/deals",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/ambica-auto-agencies/about",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/well-fit-car-seat-covers",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/well-fit-car-seat-covers/photo",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/well-fit-car-seat-covers/videos",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/well-fit-car-seat-covers/events",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/well-fit-car-seat-covers/blogs",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/well-fit-car-seat-covers/groups",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/well-fit-car-seat-covers/deals",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/well-fit-car-seat-covers/about",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/view/single/post/75",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/mehdipatnam",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/shopping-in-mehdipatnam",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/car-accessories-in-mehdipatnam",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/mehdipatnam/car-accessories/bade-miyan-wheels",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/mehdipatnam/car-accessories/bade-miyan-wheels/photo",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/mehdipatnam/car-accessories/bade-miyan-wheels/videos",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/mehdipatnam/car-accessories/bade-miyan-wheels/events",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/mehdipatnam/car-accessories/bade-miyan-wheels/blogs",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/mehdipatnam/car-accessories/bade-miyan-wheels/groups",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/mehdipatnam/car-accessories/bade-miyan-wheels/deals",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/mehdipatnam/car-accessories/bade-miyan-wheels/about",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    }
+  ],
+  "redirectLinks": []
+}

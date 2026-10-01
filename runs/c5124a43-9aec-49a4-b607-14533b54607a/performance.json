@@ -1,0 +1,23 @@
+{
+  "metrics": {
+    "performanceScore": 0,
+    "fcp": "N/A",
+    "fcpMs": null,
+    "lcp": "N/A",
+    "lcpMs": null,
+    "totalBlockingTime": "N/A",
+    "totalBlockingTimeMs": null,
+    "cls": "N/A",
+    "clsValue": null,
+    "speedIndex": "N/A",
+    "speedIndexMs": null,
+    "tti": "N/A",
+    "ttiMs": null,
+    "ttfb": "N/A",
+    "ttfbMs": null,
+    "source": "lighthouse",
+    "lighthouseVersion": "13.4.1",
+    "url": "https://cityhangaround.com/"
+  },
+  "findings": []
+}

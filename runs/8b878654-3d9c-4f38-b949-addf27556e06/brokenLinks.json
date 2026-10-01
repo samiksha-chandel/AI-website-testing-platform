@@ -1,0 +1,1458 @@
+{
+  "results": [
+    {
+      "url": "https://cityhangaround.com/admin/page/create",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login",
+      "isBroken": false,
+      "isRedirect": true,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/products/create",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login",
+      "isBroken": false,
+      "isRedirect": true,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/user/subscriptions/view",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login",
+      "isBroken": false,
+      "isRedirect": true,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/pages/custom/contact-us",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/pages/custom/contact-us",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/public-subscriptions",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/public-subscriptions",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/events/create",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login",
+      "isBroken": false,
+      "isRedirect": true,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/blog/create",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login",
+      "isBroken": false,
+      "isRedirect": true,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/groups",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/groups",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/login",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/forgot-password",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/forgot-password",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/term/condition/view",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/term/condition/view",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/auth/google",
+      "status": 200,
+      "finalUrl": "https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S-718549142%3A1790827622105480&client_id=688878155235-las7p5a9sora9vp91aai0c2lstfebdtl.apps.googleusercontent.com&o2v=1&redirect_uri=https%3A%2F%2Fcityhangaround.com%2Fauth%2Fgoogle%2Fcallback&response_type=code&scope=openid+profile+email&service=lso&state=L1aSvJjF7RHLilA6gnAqzT3rsxRkk3yNj2sxhnIx&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAPzEbvA0FRxS5ff4E0I7SxmMomhFXIBME-GToDJg0sx4kH3G6D85HB__9xPw5wKHi--0rBIdxXBy818VY9Er15is5W9YKNEdARMhKa4TkZLVANxRyLThTD4B2wHkkZlTW9IN41upjkov35VndSLAuE_m0j-awmDowFlZPWAWx7rSgXFxiU047RreW5nPym-3ccvxV_FHonwZwz5oyCnSK-Z-5HM55bprre--xgCJhrf32kwCZX3a1o7MIHkV-qSSe8ZNRQ68UI7Zae-_kZn1PJRm1yadHblsIonfYcDIvlnB_MjtnRsBSAPoh5WQGpgvfLsW3x9HKzGjz-B_rLKb_GSEhURvZVvO3Da3JtYSrlPGebAvrvfz68i5nS7DQPgj1BEjubHTYKoS7J-zDEheTV0qUsM6sp39AC884HaG9h1bCnWfUvHSlUXg36CZ7G980ngGm842TocXDCdnbQb5Jw6XykXSA%26flowName%3DGeneralOAuthFlow%26as%3DS-718549142%253A1790827622105480%26client_id%3D688878155235-las7p5a9sora9vp91aai0c2lstfebdtl.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fcityhangaround.com&rart=ANgoxcf4eW8eRgCGf6DAQuv9eD_ev4DQEAS9C5d2fILx8jZ3uGFXNVeF-WwXluYzsq1F7MHFFAgOBi5Ssd-8bcJytS4GOs9Xlgkha3nOLL2QYZMk9uUvzyI",
+      "isBroken": false,
+      "isRedirect": true,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/auth/facebook",
+      "status": 200,
+      "finalUrl": "https://www.facebook.com/login.php?skip_api_login=1&api_key=1112075843555936&kid_directed_site=0&app_id=1112075843555936&signed_next=1&next=https%3A%2F%2Fwww.facebook.com%2Fv23.0%2Fdialog%2Foauth%3Fclient_id%3D1112075843555936%26redirect_uri%3Dhttps%253A%252F%252Fcityhangaround.com%252Fauth%252Ffacebook%252Fcallback%26scope%3Demail%26response_type%3Dcode%26state%3DSmnRvNYXvy8Q3oKXoNKTpIloucHYYApiFDBMzSI3%26ret%3Dlogin%26fbapp_pres%3D0%26logger_id%3D347dadec-0a7b-4c39-9a82-146dc6a71ab1%26tp%3Dunspecified&cancel_url=https%3A%2F%2Fcityhangaround.com%2Fauth%2Ffacebook%2Fcallback%3Ferror%3Daccess_denied%26error_code%3D200%26error_description%3DPermissions%2Berror%26error_reason%3Duser_denied%26state%3DSmnRvNYXvy8Q3oKXoNKTpIloucHYYApiFDBMzSI3%23_%3D_&display=page&locale=hi_IN&pl_dbl=0&is_business_login=0",
+      "isBroken": false,
+      "isRedirect": true,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/jaipur",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/jaipur",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/indore",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/indore",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/coimbatore",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/coimbatore",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/chandigarh",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/chandigarh",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/surat",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/surat",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/delhi-delhi",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/delhi-delhi",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/chennai",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/chennai",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/rajkot",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/rajkot",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/madurai",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/madurai",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/home",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login",
+      "isBroken": false,
+      "isRedirect": true,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/profile",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login",
+      "isBroken": false,
+      "isRedirect": true,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/pages",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/pages",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/videos",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login",
+      "isBroken": false,
+      "isRedirect": true,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/event/all",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/event/all",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/blog/all",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/blog/all",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/about/page/view",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login",
+      "isBroken": false,
+      "isRedirect": true,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/policy/page/view",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login",
+      "isBroken": false,
+      "isRedirect": true,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/budget-hotels-in-hyderabad",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/budget-hotels-in-hyderabad",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/banjara-hills",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/banjara-hills",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/accomodation-in-banjara-hills",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/accomodation-in-banjara-hills",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/budget-hotels-in-banjara-hills",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/budget-hotels-in-banjara-hills",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/banjara-hills/budget-hotels/guest-inn-suites-castle-hotel",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/banjara-hills/budget-hotels/guest-inn-suites-castle-hotel",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/banjara-hills/budget-hotels/guest-inn-suites-castle-hotel/photo",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/banjara-hills/budget-hotels/guest-inn-suites-castle-hotel/photo",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/banjara-hills/budget-hotels/guest-inn-suites-castle-hotel/videos",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/banjara-hills/budget-hotels/guest-inn-suites-castle-hotel/videos",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/banjara-hills/budget-hotels/guest-inn-suites-castle-hotel/events",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/banjara-hills/budget-hotels/guest-inn-suites-castle-hotel/events",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/banjara-hills/budget-hotels/guest-inn-suites-castle-hotel/blogs",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/banjara-hills/budget-hotels/guest-inn-suites-castle-hotel/blogs",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/banjara-hills/budget-hotels/guest-inn-suites-castle-hotel/groups",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/banjara-hills/budget-hotels/guest-inn-suites-castle-hotel/groups",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/banjara-hills/budget-hotels/guest-inn-suites-castle-hotel/deals",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/banjara-hills/budget-hotels/guest-inn-suites-castle-hotel/deals",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/banjara-hills/budget-hotels/guest-inn-suites-castle-hotel/about",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/banjara-hills/budget-hotels/guest-inn-suites-castle-hotel/about",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/alirajpur/khandala/gymbag-grooming/approved-gym-listing/gymbag-grooming/gym-equipment",
+      "status": 404,
+      "finalUrl": "https://cityhangaround.com/alirajpur/khandala/gymbag-grooming/approved-gym-listing/gymbag-grooming/gym-equipment",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/agar/badagaon/education/battle-arena-page/education/note-book",
+      "status": 404,
+      "finalUrl": "https://cityhangaround.com/agar/badagaon/education/battle-arena-page/education/note-book",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/dibai/mahadev-chauraha-railway-road/indian-masala/jitin-sai-traders/indian-masala/dhaniya-powder-250-gm",
+      "status": 404,
+      "finalUrl": "https://cityhangaround.com/dibai/mahadev-chauraha-railway-road/indian-masala/jitin-sai-traders/indian-masala/dhaniya-powder-250-gm",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/dibai/mahadev-chauraha-railway-road/washing-powder/jitin-sai-traders/washing-powder/surf-excel-detergent-1-kg",
+      "status": 404,
+      "finalUrl": "https://cityhangaround.com/dibai/mahadev-chauraha-railway-road/washing-powder/jitin-sai-traders/washing-powder/surf-excel-detergent-1-kg",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/dibai/mahadev-chauraha-railway-road/cooking-oil/jitin-sai-traders/cooking-oil/fortune-refind-oil-1-liter",
+      "status": 404,
+      "finalUrl": "https://cityhangaround.com/dibai/mahadev-chauraha-railway-road/cooking-oil/jitin-sai-traders/cooking-oil/fortune-refind-oil-1-liter",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/dibai/mahadev-chauraha-railway-road/bath-soap/jitin-sai-traders/bath-soap/lux-bathing-bar-100-gm-5",
+      "status": 404,
+      "finalUrl": "https://cityhangaround.com/dibai/mahadev-chauraha-railway-road/bath-soap/jitin-sai-traders/bath-soap/lux-bathing-bar-100-gm-5",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/dibai/mahadev-chauraha-railway-road/indian-spices/jitin-sai-traders/indian-spices/mirch-powder-250-gm",
+      "status": 404,
+      "finalUrl": "https://cityhangaround.com/dibai/mahadev-chauraha-railway-road/indian-spices/jitin-sai-traders/indian-spices/mirch-powder-250-gm",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/dibai/mahadev-chauraha-railway-road/indian-pickle/jitin-sai-traders/indian-pickle/mango-pickle-1-kg",
+      "status": 404,
+      "finalUrl": "https://cityhangaround.com/dibai/mahadev-chauraha-railway-road/indian-pickle/jitin-sai-traders/indian-pickle/mango-pickle-1-kg",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/category/budget-hotels",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/category/budget-hotels",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/alirajpur/khandala/health-and-fitness/approved-gym-listing/gymbag-grooming/gym-equipment",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/alirajpur/khandala/health-and-fitness/approved-gym-listing/gymbag-grooming/gym-equipment",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/agar/badagaon/game/battle-arena-page/education/note-book",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/agar/badagaon/game/battle-arena-page/education/note-book",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/dibai/mahadev-chauraha-railway-road/kirana-stores-general-provision-stores/jitin-sai-traders/indian-masala/dhaniya-powder-250-gm",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/dibai/mahadev-chauraha-railway-road/kirana-stores-general-provision-stores/jitin-sai-traders/indian-masala/dhaniya-powder-250-gm",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/dibai/mahadev-chauraha-railway-road/kirana-stores-general-provision-stores/jitin-sai-traders/washing-powder/surf-excel-detergent-1-kg",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/dibai/mahadev-chauraha-railway-road/kirana-stores-general-provision-stores/jitin-sai-traders/washing-powder/surf-excel-detergent-1-kg",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/dibai/mahadev-chauraha-railway-road/kirana-stores-general-provision-stores/jitin-sai-traders/cooking-oil/fortune-refind-oil-1-liter",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/dibai/mahadev-chauraha-railway-road/kirana-stores-general-provision-stores/jitin-sai-traders/cooking-oil/fortune-refind-oil-1-liter",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/dibai/mahadev-chauraha-railway-road/kirana-stores-general-provision-stores/jitin-sai-traders/bath-soap/lux-bathing-bar-100-gm-5",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/dibai/mahadev-chauraha-railway-road/kirana-stores-general-provision-stores/jitin-sai-traders/bath-soap/lux-bathing-bar-100-gm-5",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/dibai/mahadev-chauraha-railway-road/kirana-stores-general-provision-stores/jitin-sai-traders/indian-spices/mirch-powder-250-gm",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/dibai/mahadev-chauraha-railway-road/kirana-stores-general-provision-stores/jitin-sai-traders/indian-spices/mirch-powder-250-gm",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/dibai/mahadev-chauraha-railway-road/kirana-stores-general-provision-stores/jitin-sai-traders/indian-pickle/mango-pickle-1-kg",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/dibai/mahadev-chauraha-railway-road/kirana-stores-general-provision-stores/jitin-sai-traders/indian-pickle/mango-pickle-1-kg",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/madhapur",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/madhapur",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/accomodation-in-madhapur",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/accomodation-in-madhapur",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/budget-hotels-in-madhapur",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/budget-hotels-in-madhapur",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/madhapur/budget-hotels/nrs-royal-recreation",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/madhapur/budget-hotels/nrs-royal-recreation",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/madhapur/budget-hotels/nrs-royal-recreation/photo",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/madhapur/budget-hotels/nrs-royal-recreation/photo",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/madhapur/budget-hotels/nrs-royal-recreation/videos",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/madhapur/budget-hotels/nrs-royal-recreation/videos",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/madhapur/budget-hotels/nrs-royal-recreation/events",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/madhapur/budget-hotels/nrs-royal-recreation/events",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/madhapur/budget-hotels/nrs-royal-recreation/blogs",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/madhapur/budget-hotels/nrs-royal-recreation/blogs",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/madhapur/budget-hotels/nrs-royal-recreation/groups",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/madhapur/budget-hotels/nrs-royal-recreation/groups",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/madhapur/budget-hotels/nrs-royal-recreation/deals",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/madhapur/budget-hotels/nrs-royal-recreation/deals",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/madhapur/budget-hotels/nrs-royal-recreation/about",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/madhapur/budget-hotels/nrs-royal-recreation/about",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/nagole",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/nagole",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/accomodation-in-nagole",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/accomodation-in-nagole",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/budget-hotels-in-nagole",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/budget-hotels-in-nagole",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/nagole/budget-hotels/hotel-swagath-grand",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/nagole/budget-hotels/hotel-swagath-grand",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/nagole/budget-hotels/hotel-swagath-grand/photo",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/nagole/budget-hotels/hotel-swagath-grand/photo",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/nagole/budget-hotels/hotel-swagath-grand/videos",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/nagole/budget-hotels/hotel-swagath-grand/videos",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/nagole/budget-hotels/hotel-swagath-grand/events",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/nagole/budget-hotels/hotel-swagath-grand/events",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/nagole/budget-hotels/hotel-swagath-grand/blogs",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/nagole/budget-hotels/hotel-swagath-grand/blogs",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/nagole/budget-hotels/hotel-swagath-grand/groups",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/nagole/budget-hotels/hotel-swagath-grand/groups",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/nagole/budget-hotels/hotel-swagath-grand/deals",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/nagole/budget-hotels/hotel-swagath-grand/deals",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/nagole/budget-hotels/hotel-swagath-grand/about",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/nagole/budget-hotels/hotel-swagath-grand/about",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/ameerpet",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/ameerpet",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/accomodation-in-ameerpet",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/accomodation-in-ameerpet",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/budget-hotels-in-ameerpet",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/budget-hotels-in-ameerpet",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/ameerpet/budget-hotels/hotel-tanisha",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/ameerpet/budget-hotels/hotel-tanisha",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/ameerpet/budget-hotels/hotel-tanisha/photo",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/ameerpet/budget-hotels/hotel-tanisha/photo",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/ameerpet/budget-hotels/hotel-tanisha/videos",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/ameerpet/budget-hotels/hotel-tanisha/videos",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/ameerpet/budget-hotels/hotel-tanisha/events",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/ameerpet/budget-hotels/hotel-tanisha/events",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/ameerpet/budget-hotels/hotel-tanisha/blogs",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/ameerpet/budget-hotels/hotel-tanisha/blogs",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/ameerpet/budget-hotels/hotel-tanisha/groups",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/ameerpet/budget-hotels/hotel-tanisha/groups",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/ameerpet/budget-hotels/hotel-tanisha/deals",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/ameerpet/budget-hotels/hotel-tanisha/deals",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/ameerpet/budget-hotels/hotel-tanisha/about",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/ameerpet/budget-hotels/hotel-tanisha/about",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/ameerpet/budget-hotels/hotel-sai-pearl",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/ameerpet/budget-hotels/hotel-sai-pearl",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/ameerpet/budget-hotels/hotel-sai-pearl/photo",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/ameerpet/budget-hotels/hotel-sai-pearl/photo",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/ameerpet/budget-hotels/hotel-sai-pearl/videos",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/ameerpet/budget-hotels/hotel-sai-pearl/videos",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/ameerpet/budget-hotels/hotel-sai-pearl/events",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/ameerpet/budget-hotels/hotel-sai-pearl/events",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/ameerpet/budget-hotels/hotel-sai-pearl/blogs",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/ameerpet/budget-hotels/hotel-sai-pearl/blogs",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/ameerpet/budget-hotels/hotel-sai-pearl/groups",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/ameerpet/budget-hotels/hotel-sai-pearl/groups",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/ameerpet/budget-hotels/hotel-sai-pearl/deals",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/ameerpet/budget-hotels/hotel-sai-pearl/deals",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/ameerpet/budget-hotels/hotel-sai-pearl/about",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/ameerpet/budget-hotels/hotel-sai-pearl/about",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/secunderabad",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/secunderabad",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/accomodation-in-secunderabad",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/accomodation-in-secunderabad",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/budget-hotels-in-secunderabad",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/budget-hotels-in-secunderabad",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/secunderabad/budget-hotels/hotel-sitara",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/secunderabad/budget-hotels/hotel-sitara",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/secunderabad/budget-hotels/hotel-sitara/photo",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/secunderabad/budget-hotels/hotel-sitara/photo",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/secunderabad/budget-hotels/hotel-sitara/videos",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/secunderabad/budget-hotels/hotel-sitara/videos",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/secunderabad/budget-hotels/hotel-sitara/events",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/secunderabad/budget-hotels/hotel-sitara/events",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/secunderabad/budget-hotels/hotel-sitara/blogs",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/secunderabad/budget-hotels/hotel-sitara/blogs",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/secunderabad/budget-hotels/hotel-sitara/groups",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/secunderabad/budget-hotels/hotel-sitara/groups",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/secunderabad/budget-hotels/hotel-sitara/deals",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/secunderabad/budget-hotels/hotel-sitara/deals",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/secunderabad/budget-hotels/hotel-sitara/about",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/secunderabad/budget-hotels/hotel-sitara/about",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/secunderabad/budget-hotels/taj-home-hotel",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/secunderabad/budget-hotels/taj-home-hotel",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/secunderabad/budget-hotels/taj-home-hotel/photo",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/secunderabad/budget-hotels/taj-home-hotel/photo",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/secunderabad/budget-hotels/taj-home-hotel/videos",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/secunderabad/budget-hotels/taj-home-hotel/videos",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/secunderabad/budget-hotels/taj-home-hotel/events",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/secunderabad/budget-hotels/taj-home-hotel/events",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/secunderabad/budget-hotels/taj-home-hotel/blogs",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/secunderabad/budget-hotels/taj-home-hotel/blogs",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/secunderabad/budget-hotels/taj-home-hotel/groups",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/secunderabad/budget-hotels/taj-home-hotel/groups",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/secunderabad/budget-hotels/taj-home-hotel/deals",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/secunderabad/budget-hotels/taj-home-hotel/deals",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/secunderabad/budget-hotels/taj-home-hotel/about",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/secunderabad/budget-hotels/taj-home-hotel/about",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/nampally",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/nampally",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/accomodation-in-nampally",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/accomodation-in-nampally",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/budget-hotels-in-nampally",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/budget-hotels-in-nampally",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/nampally/budget-hotels/hotel-imax-inn",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/nampally/budget-hotels/hotel-imax-inn",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/nampally/budget-hotels/hotel-imax-inn/photo",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/nampally/budget-hotels/hotel-imax-inn/photo",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/nampally/budget-hotels/hotel-imax-inn/videos",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/nampally/budget-hotels/hotel-imax-inn/videos",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/nampally/budget-hotels/hotel-imax-inn/events",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/nampally/budget-hotels/hotel-imax-inn/events",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/nampally/budget-hotels/hotel-imax-inn/blogs",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/nampally/budget-hotels/hotel-imax-inn/blogs",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/nampally/budget-hotels/hotel-imax-inn/groups",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/nampally/budget-hotels/hotel-imax-inn/groups",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/nampally/budget-hotels/hotel-imax-inn/deals",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/nampally/budget-hotels/hotel-imax-inn/deals",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/nampally/budget-hotels/hotel-imax-inn/about",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/nampally/budget-hotels/hotel-imax-inn/about",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/madhapur/budget-hotels/hotel-horizon-residency",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/madhapur/budget-hotels/hotel-horizon-residency",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/madhapur/budget-hotels/hotel-horizon-residency/photo",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/madhapur/budget-hotels/hotel-horizon-residency/photo",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/madhapur/budget-hotels/hotel-horizon-residency/videos",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/madhapur/budget-hotels/hotel-horizon-residency/videos",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/madhapur/budget-hotels/hotel-horizon-residency/events",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/madhapur/budget-hotels/hotel-horizon-residency/events",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/madhapur/budget-hotels/hotel-horizon-residency/blogs",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/madhapur/budget-hotels/hotel-horizon-residency/blogs",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/madhapur/budget-hotels/hotel-horizon-residency/groups",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/madhapur/budget-hotels/hotel-horizon-residency/groups",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/madhapur/budget-hotels/hotel-horizon-residency/deals",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/madhapur/budget-hotels/hotel-horizon-residency/deals",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/madhapur/budget-hotels/hotel-horizon-residency/about",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/madhapur/budget-hotels/hotel-horizon-residency/about",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/p-g-road",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/p-g-road",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/accomodation-in-p-g-road",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/accomodation-in-p-g-road",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/budget-hotels-in-p-g-road",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/budget-hotels-in-p-g-road",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/p-g-road/budget-hotels/hotel-samudra-inn",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/p-g-road/budget-hotels/hotel-samudra-inn",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/p-g-road/budget-hotels/hotel-samudra-inn/photo",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/p-g-road/budget-hotels/hotel-samudra-inn/photo",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/p-g-road/budget-hotels/hotel-samudra-inn/videos",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/p-g-road/budget-hotels/hotel-samudra-inn/videos",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/p-g-road/budget-hotels/hotel-samudra-inn/events",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/p-g-road/budget-hotels/hotel-samudra-inn/events",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/p-g-road/budget-hotels/hotel-samudra-inn/blogs",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/p-g-road/budget-hotels/hotel-samudra-inn/blogs",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/p-g-road/budget-hotels/hotel-samudra-inn/groups",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/p-g-road/budget-hotels/hotel-samudra-inn/groups",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/p-g-road/budget-hotels/hotel-samudra-inn/deals",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/p-g-road/budget-hotels/hotel-samudra-inn/deals",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    }
+  ],
+  "brokenLinks": [
+    {
+      "url": "https://cityhangaround.com/agar/badagaon/education/battle-arena-page/education/note-book",
+      "status": 404,
+      "error": null
+    },
+    {
+      "url": "https://cityhangaround.com/dibai/mahadev-chauraha-railway-road/bath-soap/jitin-sai-traders/bath-soap/lux-bathing-bar-100-gm-5",
+      "status": 404,
+      "error": null
+    },
+    {
+      "url": "https://cityhangaround.com/dibai/mahadev-chauraha-railway-road/washing-powder/jitin-sai-traders/washing-powder/surf-excel-detergent-1-kg",
+      "status": 404,
+      "error": null
+    },
+    {
+      "url": "https://cityhangaround.com/dibai/mahadev-chauraha-railway-road/indian-masala/jitin-sai-traders/indian-masala/dhaniya-powder-250-gm",
+      "status": 404,
+      "error": null
+    },
+    {
+      "url": "https://cityhangaround.com/alirajpur/khandala/gymbag-grooming/approved-gym-listing/gymbag-grooming/gym-equipment",
+      "status": 404,
+      "error": null
+    },
+    {
+      "url": "https://cityhangaround.com/dibai/mahadev-chauraha-railway-road/cooking-oil/jitin-sai-traders/cooking-oil/fortune-refind-oil-1-liter",
+      "status": 404,
+      "error": null
+    },
+    {
+      "url": "https://cityhangaround.com/dibai/mahadev-chauraha-railway-road/indian-spices/jitin-sai-traders/indian-spices/mirch-powder-250-gm",
+      "status": 404,
+      "error": null
+    },
+    {
+      "url": "https://cityhangaround.com/dibai/mahadev-chauraha-railway-road/indian-pickle/jitin-sai-traders/indian-pickle/mango-pickle-1-kg",
+      "status": 404,
+      "error": null
+    }
+  ],
+  "redirectLinks": [
+    {
+      "url": "https://cityhangaround.com/auth/google",
+      "status": 200,
+      "finalUrl": "https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S-718549142%3A1790827622105480&client_id=688878155235-las7p5a9sora9vp91aai0c2lstfebdtl.apps.googleusercontent.com&o2v=1&redirect_uri=https%3A%2F%2Fcityhangaround.com%2Fauth%2Fgoogle%2Fcallback&response_type=code&scope=openid+profile+email&service=lso&state=L1aSvJjF7RHLilA6gnAqzT3rsxRkk3yNj2sxhnIx&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAPzEbvA0FRxS5ff4E0I7SxmMomhFXIBME-GToDJg0sx4kH3G6D85HB__9xPw5wKHi--0rBIdxXBy818VY9Er15is5W9YKNEdARMhKa4TkZLVANxRyLThTD4B2wHkkZlTW9IN41upjkov35VndSLAuE_m0j-awmDowFlZPWAWx7rSgXFxiU047RreW5nPym-3ccvxV_FHonwZwz5oyCnSK-Z-5HM55bprre--xgCJhrf32kwCZX3a1o7MIHkV-qSSe8ZNRQ68UI7Zae-_kZn1PJRm1yadHblsIonfYcDIvlnB_MjtnRsBSAPoh5WQGpgvfLsW3x9HKzGjz-B_rLKb_GSEhURvZVvO3Da3JtYSrlPGebAvrvfz68i5nS7DQPgj1BEjubHTYKoS7J-zDEheTV0qUsM6sp39AC884HaG9h1bCnWfUvHSlUXg36CZ7G980ngGm842TocXDCdnbQb5Jw6XykXSA%26flowName%3DGeneralOAuthFlow%26as%3DS-718549142%253A1790827622105480%26client_id%3D688878155235-las7p5a9sora9vp91aai0c2lstfebdtl.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fcityhangaround.com&rart=ANgoxcf4eW8eRgCGf6DAQuv9eD_ev4DQEAS9C5d2fILx8jZ3uGFXNVeF-WwXluYzsq1F7MHFFAgOBi5Ssd-8bcJytS4GOs9Xlgkha3nOLL2QYZMk9uUvzyI"
+    },
+    {
+      "url": "https://cityhangaround.com/auth/facebook",
+      "status": 200,
+      "finalUrl": "https://www.facebook.com/login.php?skip_api_login=1&api_key=1112075843555936&kid_directed_site=0&app_id=1112075843555936&signed_next=1&next=https%3A%2F%2Fwww.facebook.com%2Fv23.0%2Fdialog%2Foauth%3Fclient_id%3D1112075843555936%26redirect_uri%3Dhttps%253A%252F%252Fcityhangaround.com%252Fauth%252Ffacebook%252Fcallback%26scope%3Demail%26response_type%3Dcode%26state%3DSmnRvNYXvy8Q3oKXoNKTpIloucHYYApiFDBMzSI3%26ret%3Dlogin%26fbapp_pres%3D0%26logger_id%3D347dadec-0a7b-4c39-9a82-146dc6a71ab1%26tp%3Dunspecified&cancel_url=https%3A%2F%2Fcityhangaround.com%2Fauth%2Ffacebook%2Fcallback%3Ferror%3Daccess_denied%26error_code%3D200%26error_description%3DPermissions%2Berror%26error_reason%3Duser_denied%26state%3DSmnRvNYXvy8Q3oKXoNKTpIloucHYYApiFDBMzSI3%23_%3D_&display=page&locale=hi_IN&pl_dbl=0&is_business_login=0"
+    },
+    {
+      "url": "https://cityhangaround.com/events/create",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login"
+    },
+    {
+      "url": "https://cityhangaround.com/admin/page/create",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login"
+    },
+    {
+      "url": "https://cityhangaround.com/user/subscriptions/view",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login"
+    },
+    {
+      "url": "https://cityhangaround.com/blog/create",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login"
+    },
+    {
+      "url": "https://cityhangaround.com/products/create",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login"
+    },
+    {
+      "url": "https://cityhangaround.com/home",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login"
+    },
+    {
+      "url": "https://cityhangaround.com/profile",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login"
+    },
+    {
+      "url": "https://cityhangaround.com/videos",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login"
+    },
+    {
+      "url": "https://cityhangaround.com/about/page/view",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login"
+    },
+    {
+      "url": "https://cityhangaround.com/policy/page/view",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login"
+    }
+  ]
+}

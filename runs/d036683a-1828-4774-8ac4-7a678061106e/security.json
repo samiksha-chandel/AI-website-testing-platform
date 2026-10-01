@@ -1,0 +1,119 @@
+{
+  "headers": {},
+  "zapAlerts": [],
+  "findings": [
+    {
+      "type": "missing_header",
+      "header": "HSTS",
+      "severity": "HIGH",
+      "description": "Missing HSTS header",
+      "recommendation": "Add strict-transport-security header to improve security",
+      "url": "https://cityhangaround.com/",
+      "source": "header-analysis",
+      "ruleId": "missing-hsts",
+      "owaspRef": "WASC-15",
+      "category": "Security Headers"
+    },
+    {
+      "type": "missing_header",
+      "header": "CSP",
+      "severity": "HIGH",
+      "description": "Missing CSP header",
+      "recommendation": "Add content-security-policy header to improve security",
+      "url": "https://cityhangaround.com/",
+      "source": "header-analysis",
+      "ruleId": "missing-csp",
+      "owaspRef": "WASC-15",
+      "category": "Security Headers"
+    },
+    {
+      "type": "missing_header",
+      "header": "X-Content-Type-Options",
+      "severity": "MEDIUM",
+      "description": "Missing X-Content-Type-Options header",
+      "recommendation": "Add x-content-type-options header to improve security",
+      "url": "https://cityhangaround.com/",
+      "source": "header-analysis",
+      "ruleId": "missing-x-content-type-options",
+      "owaspRef": "WASC-15",
+      "category": "Security Headers"
+    },
+    {
+      "type": "missing_header",
+      "header": "X-Frame-Options",
+      "severity": "MEDIUM",
+      "description": "Missing X-Frame-Options header",
+      "recommendation": "Add x-frame-options header to improve security",
+      "url": "https://cityhangaround.com/",
+      "source": "header-analysis",
+      "ruleId": "missing-x-frame-options",
+      "owaspRef": "WASC-10",
+      "category": "Security Headers"
+    },
+    {
+      "type": "sensitive_url",
+      "severity": "MEDIUM",
+      "description": "URL may contain sensitive data: https://cityhangaround.com/forgot-password",
+      "url": "https://cityhangaround.com/forgot-password",
+      "source": "crawl-analysis",
+      "ruleId": "sensitive-url",
+      "category": "Information Exposure"
+    },
+    {
+      "type": "sensitive_url",
+      "severity": "MEDIUM",
+      "description": "URL may contain sensitive data: https://cityhangaround.com/auth/google",
+      "url": "https://cityhangaround.com/auth/google",
+      "source": "crawl-analysis",
+      "ruleId": "sensitive-url",
+      "category": "Information Exposure"
+    },
+    {
+      "type": "sensitive_url",
+      "severity": "MEDIUM",
+      "description": "URL may contain sensitive data: https://cityhangaround.com/auth/facebook",
+      "url": "https://cityhangaround.com/auth/facebook",
+      "source": "crawl-analysis",
+      "ruleId": "sensitive-url",
+      "category": "Information Exposure"
+    },
+    {
+      "type": "missing_header",
+      "header": "X-XSS-Protection",
+      "severity": "LOW",
+      "description": "Missing X-XSS-Protection header",
+      "recommendation": "Add x-xss-protection header to improve security",
+      "url": "https://cityhangaround.com/",
+      "source": "header-analysis",
+      "ruleId": "missing-x-xss-protection",
+      "owaspRef": "WASC-15",
+      "category": "Security Headers"
+    },
+    {
+      "type": "missing_header",
+      "header": "Referrer-Policy",
+      "severity": "LOW",
+      "description": "Missing Referrer-Policy header",
+      "recommendation": "Add referrer-policy header to improve security",
+      "url": "https://cityhangaround.com/",
+      "source": "header-analysis",
+      "ruleId": "missing-referrer-policy",
+      "owaspRef": "WASC-15",
+      "category": "Security Headers"
+    },
+    {
+      "type": "missing_header",
+      "header": "Permissions-Policy",
+      "severity": "LOW",
+      "description": "Missing Permissions-Policy header",
+      "recommendation": "Add permissions-policy header to improve security",
+      "url": "https://cityhangaround.com/",
+      "source": "header-analysis",
+      "ruleId": "missing-permissions-policy",
+      "owaspRef": "WASC-15",
+      "category": "Security Headers"
+    }
+  ],
+  "isHTTPS": true,
+  "httpStatus": 0
+}

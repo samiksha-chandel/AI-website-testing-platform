@@ -1,0 +1,78 @@
+{
+  "findings": [
+    {
+      "ruleId": "long-title",
+      "severity": "LOW",
+      "description": "Title is too long (71 chars) - may be truncated in SERPs",
+      "category": "meta"
+    },
+    {
+      "ruleId": "long-description",
+      "severity": "LOW",
+      "description": "Meta description is too long (169 chars)",
+      "category": "meta"
+    },
+    {
+      "ruleId": "multiple-h1",
+      "severity": "MEDIUM",
+      "description": "Multiple H1 tags found (4)",
+      "category": "headings"
+    },
+    {
+      "ruleId": "missing-canonical",
+      "severity": "MEDIUM",
+      "description": "No canonical URL specified",
+      "category": "meta"
+    },
+    {
+      "ruleId": "missing-og-tags",
+      "severity": "LOW",
+      "description": "Missing Open Graph tags: og:title, og:description, og:image, og:url, og:type",
+      "category": "social"
+    },
+    {
+      "ruleId": "missing-twitter-tags",
+      "severity": "LOW",
+      "description": "Most Twitter Card tags are missing",
+      "category": "social"
+    },
+    {
+      "ruleId": "images-no-alt",
+      "severity": "LOW",
+      "description": "660 images missing alt text",
+      "category": "content"
+    },
+    {
+      "ruleId": "pages-missing-h1",
+      "severity": "MEDIUM",
+      "description": "52 of 96 pages missing H1 tag",
+      "category": "headings"
+    }
+  ],
+  "metrics": {
+    "pagesAnalyzed": 96,
+    "totalPagesDiscovered": 96,
+    "titleLength": 71,
+    "descriptionLength": 169,
+    "hasKeywords": false,
+    "h1Count": 4,
+    "headingLevels": "h1, h2, h3, h4, h5, h6",
+    "hasCanonical": false,
+    "ogTagsPresent": 0,
+    "ogTagsTotal": 5,
+    "twitterTagsPresent": 0,
+    "imagesTotal": 2701,
+    "imagesWithoutAlt": 660,
+    "pagesMissingH1": 52,
+    "internalLinks": 5134,
+    "externalLinks": 47,
+    "averageWordCount": 60,
+    "pagesWithContent": 92,
+    "hasSitemap": true,
+    "hasRobotsMeta": false
+  },
+  "crawlData": {
+    "url": "https://cityhangaround.com/",
+    "title": "CityHangarounds – Discover Local Businesses, Deals, Events & City Guide"
+  }
+}

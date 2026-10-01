@@ -1,0 +1,1513 @@
+{
+  "results": [
+    {
+      "url": "https://cityhangaround.com/admin/page/create",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login",
+      "isBroken": false,
+      "isRedirect": true,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/products/create",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login",
+      "isBroken": false,
+      "isRedirect": true,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/user/subscriptions/view",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login",
+      "isBroken": false,
+      "isRedirect": true,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/pages/custom/contact-us",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/pages/custom/contact-us",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/public-subscriptions",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/public-subscriptions",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/events/create",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login",
+      "isBroken": false,
+      "isRedirect": true,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/blog/create",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login",
+      "isBroken": false,
+      "isRedirect": true,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/groups",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/groups",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/login",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/forgot-password",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/forgot-password",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/term/condition/view",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/term/condition/view",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/auth/google",
+      "status": 200,
+      "finalUrl": "https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S-1676195645%3A1788520294093105&client_id=688878155235-las7p5a9sora9vp91aai0c2lstfebdtl.apps.googleusercontent.com&o2v=1&redirect_uri=https%3A%2F%2Fcityhangaround.com%2Fauth%2Fgoogle%2Fcallback&response_type=code&scope=openid+profile+email&service=lso&state=6gQUOi4LpalgLUMdLC69KJVWPacEhnztoyv5v419&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hANDQdojQPbmA0c17twCNVJR2NSAzgQKCM-j2ggXxWeDOIY6S2xjDqY24MTv4MrBK76ZIOZq3x0KjvBQOtObsaNLP8BiOIVebuWLb0LRgroFiRZMQ5MaRReUa3L04fMkAvdlco-jBSLJZ_Ju1FVxHqXdt1nnY3VWj585ZAH1el6vHeIrM5r1EGh_bQC3McEulcj61wJ0tEvRoEAWcSLxcgey9JIiHzPZ7Pl_0CeAf1rtyr_ptpjOIbPN6-vSoGSKoIbtLimIsbuqLLumBhLaNN7p_qCm99HivjO283HtJ7hoLMtbtazpCx5vjU1uC3dCFRNb5zFF3Fu01-0YYXKnvRTF9iK9yjEI5RcvU18USVaIMhaHAlIbXqcQKfSimBMsiLaN1Ea1P8LU2DlU9k1yNHRUN_Q5L5Gg4q3m7D-B82tNDk1FqDuDnA18v1CqrQiJzwpnUymoz0K5lR5cBbpoNfhUo2467w%26flowName%3DGeneralOAuthFlow%26as%3DS-1676195645%253A1788520294093105%26client_id%3D688878155235-las7p5a9sora9vp91aai0c2lstfebdtl.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fcityhangaround.com&rart=ANgoxccjKpATnCAYsbtI2kmaAjo7UlS3Cgel1jkRf_lMfzh2gsHhGAFfpHRzADsFnGcfYzM-orX69msK0kQR7fBU3FKSw8kjQOQcADpK8jNCKDtBiCG2evU",
+      "isBroken": false,
+      "isRedirect": true,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/auth/facebook",
+      "status": 200,
+      "finalUrl": "https://www.facebook.com/login.php?skip_api_login=1&api_key=1112075843555936&kid_directed_site=0&app_id=1112075843555936&signed_next=1&next=https%3A%2F%2Fwww.facebook.com%2Fv23.0%2Fdialog%2Foauth%3Fclient_id%3D1112075843555936%26redirect_uri%3Dhttps%253A%252F%252Fcityhangaround.com%252Fauth%252Ffacebook%252Fcallback%26scope%3Demail%26response_type%3Dcode%26state%3DclIgMm72dc1TkmCVz6XLiXPqG44DrmgTMc4Vg70L%26ret%3Dlogin%26fbapp_pres%3D0%26logger_id%3D6be65bf9-fb8b-47b2-8394-ba650079b91b%26tp%3Dunspecified&cancel_url=https%3A%2F%2Fcityhangaround.com%2Fauth%2Ffacebook%2Fcallback%3Ferror%3Daccess_denied%26error_code%3D200%26error_description%3DPermissions%2Berror%26error_reason%3Duser_denied%26state%3DclIgMm72dc1TkmCVz6XLiXPqG44DrmgTMc4Vg70L%23_%3D_&display=page&locale=hi_IN&pl_dbl=0&is_business_login=0",
+      "isBroken": false,
+      "isRedirect": true,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/jaipur",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/jaipur",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/indore",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/indore",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/coimbatore",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/coimbatore",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/chandigarh",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/chandigarh",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/surat",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/surat",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/delhi-delhi",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/delhi-delhi",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/chennai",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/chennai",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/rajkot",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/rajkot",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/madurai",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/madurai",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/register",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/register",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/home",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login",
+      "isBroken": false,
+      "isRedirect": true,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/profile",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login",
+      "isBroken": false,
+      "isRedirect": true,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/pages",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/pages",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/videos",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login",
+      "isBroken": false,
+      "isRedirect": true,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/event/all",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/event/all",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/blog/all",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/blog/all",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/about/page/view",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login",
+      "isBroken": false,
+      "isRedirect": true,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/policy/page/view",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login",
+      "isBroken": false,
+      "isRedirect": true,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/alirajpur/khandala/health-and-fitness/approved-gym-listing/gymbag-grooming/gym-equipment",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/alirajpur/khandala/health-and-fitness/approved-gym-listing/gymbag-grooming/gym-equipment",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/agar/badagaon/game/battle-arena-page/education/note-book",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/agar/badagaon/game/battle-arena-page/education/note-book",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/dibai/mahadev-chauraha-railway-road/kirana-stores-general-provision-stores/jitin-sai-traders/indian-masala/dhaniya-powder-250-gm",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/dibai/mahadev-chauraha-railway-road/kirana-stores-general-provision-stores/jitin-sai-traders/indian-masala/dhaniya-powder-250-gm",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/dibai/mahadev-chauraha-railway-road/kirana-stores-general-provision-stores/jitin-sai-traders/washing-powder/surf-excel-detergent-1-kg",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/dibai/mahadev-chauraha-railway-road/kirana-stores-general-provision-stores/jitin-sai-traders/washing-powder/surf-excel-detergent-1-kg",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/dibai/mahadev-chauraha-railway-road/kirana-stores-general-provision-stores/jitin-sai-traders/cooking-oil/fortune-refind-oil-1-liter",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/dibai/mahadev-chauraha-railway-road/kirana-stores-general-provision-stores/jitin-sai-traders/cooking-oil/fortune-refind-oil-1-liter",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/dibai/mahadev-chauraha-railway-road/kirana-stores-general-provision-stores/jitin-sai-traders/bath-soap/lux-bathing-bar-100-gm-5",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/dibai/mahadev-chauraha-railway-road/kirana-stores-general-provision-stores/jitin-sai-traders/bath-soap/lux-bathing-bar-100-gm-5",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/group/category/social-group",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/group/category/social-group",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/group/category/music-entertainment",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/group/category/music-entertainment",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/group/category/education-learning",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/group/category/education-learning",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/group/category/business-entrepreneurship",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/group/category/business-entrepreneurship",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/group/category/technology-innovation",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/group/category/technology-innovation",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/group/category/#photography",
+      "status": 404,
+      "finalUrl": "https://cityhangaround.com/group/category/",
+      "isBroken": true,
+      "isRedirect": true,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/group/category/arts-creativity",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/group/category/arts-creativity",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/group/category/automobiles-vehicles",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/group/category/automobiles-vehicles",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/group/category/battle",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/group/category/battle",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/group/category/positive-thoughts",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/group/category/positive-thoughts",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/group/category/good-health",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/group/category/good-health",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/group/category/react",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/group/category/react",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/group/category/lough",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/group/category/lough",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/group/category/fight",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/group/category/fight",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/group/category/game",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/group/category/game",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/group/category/politics-current-affairs",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/group/category/politics-current-affairs",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/group/category/social-community",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/group/category/social-community",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/group/category/health-wellness",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/group/category/health-wellness",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/group/category/fashion",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/group/category/fashion",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/group/category/software",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/group/category/software",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/group-view/social-group/comic-life/agar-malwa/bijanagri",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/group-view/social-group/comic-life/agar-malwa/bijanagri",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/group-view/game/battle-arena-group/bhopal/gulmohar",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/group-view/game/battle-arena-group/bhopal/gulmohar",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/group-view/social-group/gandhinagar-community/gandhinagar/gandhinagar",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/group-view/social-group/gandhinagar-community/gandhinagar/gandhinagar",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/group-view/social-group/test-community/test",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/group-view/social-group/test-community/test",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/group-view/social-group/are-community/guhagar/are",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/group-view/social-group/are-community/guhagar/are",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/group-view/social-group/shop-community/tonk/shop",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/group-view/social-group/shop-community/tonk/shop",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/group-view/education-learning/keep-calm/delhi/rohini-sec-7",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/group-view/education-learning/keep-calm/delhi/rohini-sec-7",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/group-view/social-community/coffee-with-kiran/bijnor/jaji-chauraha",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/group-view/social-community/coffee-with-kiran/bijnor/jaji-chauraha",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/group-view/social-group/mobile-page",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/group-view/social-group/mobile-page",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/group-view/social-group/test-group/ahmedabad/kandivali-east",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/group-view/social-group/test-group/ahmedabad/kandivali-east",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/group-view/politics-current-affairs/news-nation/ahmedabad/prahlad-nagar",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/group-view/politics-current-affairs/news-nation/ahmedabad/prahlad-nagar",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/group-view/health-wellness/fitness-with-kiran/chandpur-uttar-pradesh/bashta",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/group-view/health-wellness/fitness-with-kiran/chandpur-uttar-pradesh/bashta",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/group-view/music-entertainment/songs/mahendergarh/bhucholi",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/group-view/music-entertainment/songs/mahendergarh/bhucholi",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/group-view/social-group/sdasd/jodhpur/chopasni-housing-board",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/group-view/social-group/sdasd/jodhpur/chopasni-housing-board",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/group-view/social-group/test",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/group-view/social-group/test",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/group-view/software/mobile-version-2/agar/biyana",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/group-view/software/mobile-version-2/agar/biyana",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/group-view/social-group/cityhangaround-group/jodhpur/chopasni-housing-board",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/group-view/social-group/cityhangaround-group/jodhpur/chopasni-housing-board",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/group-view/influencers-of-india/maxwell-huff/addateegala/bhimavaram",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/group-view/influencers-of-india/maxwell-huff/addateegala/bhimavaram",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/group/category/influencers-of-india",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/group/category/influencers-of-india",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/group/all/view",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login",
+      "isBroken": false,
+      "isRedirect": true,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/pages/custom/advertise",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/pages/custom/advertise",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/pages/custom/about-us",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/pages/custom/about-us",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/pages/custom/disclaimer",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/pages/custom/disclaimer",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/pages/custom/privacy-policy",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/pages/custom/privacy-policy",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/pages/custom/terms-and-conditions",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/pages/custom/terms-and-conditions",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/pages/custom/influencer",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/pages/custom/influencer",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/pages/custom/our-story",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/pages/custom/our-story",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/groups/create",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login",
+      "isBroken": false,
+      "isRedirect": true,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/group/view/details/64",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login",
+      "isBroken": false,
+      "isRedirect": true,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/group/view/details/63",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login",
+      "isBroken": false,
+      "isRedirect": true,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/group/view/details/62",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login",
+      "isBroken": false,
+      "isRedirect": true,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/group/view/details/60",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login",
+      "isBroken": false,
+      "isRedirect": true,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/group/view/details/59",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login",
+      "isBroken": false,
+      "isRedirect": true,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/group/view/details/57",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login",
+      "isBroken": false,
+      "isRedirect": true,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/user/view-profile/1",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login",
+      "isBroken": false,
+      "isRedirect": true,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/group-view/social-group/gandhinagar-community/gandhinagar/gandhinagar?id=64",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/group-view/social-group/gandhinagar-community/gandhinagar/gandhinagar?id=64",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/rajkot/kalvad-road-vrundvan-society-part-2/food-&-beverages/shri-hari-farm/organic-foods/groundnut-oil-cold-pressed",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/rajkot/kalvad-road-vrundvan-society-part-2/food-&-beverages/shri-hari-farm/organic-foods/groundnut-oil-cold-pressed",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/rajkot/kalvad-road-vrundvan-society-part-2/food-&-beverages/shri-hari-farm/organic-foods/date-leaf-chocolate-30-pieces-per-box-101",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/rajkot/kalvad-road-vrundvan-society-part-2/food-&-beverages/shri-hari-farm/organic-foods/date-leaf-chocolate-30-pieces-per-box-101",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/rajkot/kalvad-road-vrundvan-society-part-2/food-&-beverages/shri-hari-farm/organic-foods/date-leaf-chocolate-30-pieces-per-box",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/rajkot/kalvad-road-vrundvan-society-part-2/food-&-beverages/shri-hari-farm/organic-foods/date-leaf-chocolate-30-pieces-per-box",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/rajkot/kalvad-road-vrundvan-society-part-2/food-&-beverages/shri-hari-farm/organic-foods/halwa",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/rajkot/kalvad-road-vrundvan-society-part-2/food-&-beverages/shri-hari-farm/organic-foods/halwa",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/rajkot/kalvad-road-vrundvan-society-part-2/food-&-beverages/shri-hari-farm/organic-foods/thabdi-peda",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/rajkot/kalvad-road-vrundvan-society-part-2/food-&-beverages/shri-hari-farm/organic-foods/thabdi-peda",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/rajkot/kalvad-road-vrundvan-society-part-2/food-&-beverages/shri-hari-farm/organic-foods/special-tea-jaggery-powder",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/rajkot/kalvad-road-vrundvan-society-part-2/food-&-beverages/shri-hari-farm/organic-foods/special-tea-jaggery-powder",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/ahmedabad/thaltej-road/career-counseling/ekal-academy-247563",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/ahmedabad/thaltej-road/career-counseling/ekal-academy-247563",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/category/career-counseling",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/category/career-counseling",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/career-counseling-in-ahmedabad",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/career-counseling-in-ahmedabad",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/ahmedabad/navrangpura/car-electronics/aadinath-car-accessories",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/ahmedabad/navrangpura/car-electronics/aadinath-car-accessories",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/category/car-electronics",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/category/car-electronics",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/car-electronics-in-ahmedabad",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/car-electronics-in-ahmedabad",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/chandigarh/mohali/popular-caterers-for-wedding/mahadev-tent-catering",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/chandigarh/mohali/popular-caterers-for-wedding/mahadev-tent-catering",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/category/popular-caterers-for-wedding",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/category/popular-caterers-for-wedding",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/popular-caterers-for-wedding-in-chandigarh",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/popular-caterers-for-wedding-in-chandigarh",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/agar/biyana/wedding/checking-image-listing",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/agar/biyana/wedding/checking-image-listing",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/category/wedding",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/category/wedding",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/wedding-in-agar",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/wedding-in-agar",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/alirajpur/khandala/health-and-fitness/approved-gym-listing",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/alirajpur/khandala/health-and-fitness/approved-gym-listing",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/category/health-and-fitness",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/category/health-and-fitness",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/health-and-fitness-in-alirajpur",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/health-and-fitness-in-alirajpur",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/agar/badagaon/game/battle-arena-page",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/agar/badagaon/game/battle-arena-page",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/category/game",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/category/game",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/game-in-agar",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/game-in-agar",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/speed-track-car-decors",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad/secunderabad/car-accessories/speed-track-car-decors",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/category/car-accessories",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/category/car-accessories",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/car-accessories-in-hyderabad",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/car-accessories-in-hyderabad",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/bharuch/zadeshwar/clothing-stores/women",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/bharuch/zadeshwar/clothing-stores/women",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/category/clothing-stores",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/category/clothing-stores",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/clothing-stores-in-bharuch",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/clothing-stores-in-bharuch",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/ahmedabad/anandnagar/north-indian-resturant/jassi-de-parathe-471771",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/ahmedabad/anandnagar/north-indian-resturant/jassi-de-parathe-471771",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/category/north-indian-resturant",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/category/north-indian-resturant",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/north-indian-resturant-in-ahmedabad",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/north-indian-resturant-in-ahmedabad",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/gandhinagar/sargasan/pure-vegetarian-restaurants/swagtam-restuarant",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/gandhinagar/sargasan/pure-vegetarian-restaurants/swagtam-restuarant",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/category/pure-vegetarian-restaurants",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/category/pure-vegetarian-restaurants",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/pure-vegetarian-restaurants-in-gandhinagar",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/pure-vegetarian-restaurants-in-gandhinagar",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/gandhinagar/kudasan/fashion-and-lifestyle/weaverli-threads",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/gandhinagar/kudasan/fashion-and-lifestyle/weaverli-threads",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/category/fashion-and-lifestyle",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/category/fashion-and-lifestyle",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/fashion-and-lifestyle-in-gandhinagar",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/fashion-and-lifestyle-in-gandhinagar",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/gandhinagar/kudasan/art-&-craft/artvibes-by-nisha",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/gandhinagar/kudasan/art-&-craft/artvibes-by-nisha",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/category/art-&-craft",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/category/art-&-craft",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/art-&-craft-in-gandhinagar",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/art-&-craft-in-gandhinagar",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/gandhinagar/sec-14/handicrafts-&-home-decor/d-art-handloom",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/gandhinagar/sec-14/handicrafts-&-home-decor/d-art-handloom",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/category/handicrafts-&-home-decor",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/category/handicrafts-&-home-decor",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/handicrafts-&-home-decor-in-gandhinagar",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/handicrafts-&-home-decor-in-gandhinagar",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/gandhinagar/sector-17/handicrafts/hastkala-30",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/gandhinagar/sector-17/handicrafts/hastkala-30",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/category/handicrafts",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/category/handicrafts",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/handicrafts-in-gandhinagar",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/handicrafts-in-gandhinagar",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/gandhinagar/sector-16/beauty-&-art/mehandi-by-alfina",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/gandhinagar/sector-16/beauty-&-art/mehandi-by-alfina",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/category/beauty-&-art",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/category/beauty-&-art",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/beauty-&-art-in-gandhinagar",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/beauty-&-art-in-gandhinagar",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/okhla/okhla-phase-ii/services/classplus",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/okhla/okhla-phase-ii/services/classplus",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/category/services",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/category/services",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/services-in-okhla",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/services-in-okhla",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/dibai/mahadev-chauraha-railway-road/grocery-&-general-stores/jitin-sai-traders",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/dibai/mahadev-chauraha-railway-road/grocery-&-general-stores/jitin-sai-traders",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    }
+  ],
+  "brokenLinks": [
+    {
+      "url": "https://cityhangaround.com/group/category/#photography",
+      "status": 404,
+      "error": null
+    },
+    {
+      "url": "https://cityhangaround.com/category/career-counseling",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/category/car-electronics",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/category/game",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/category/north-indian-resturant",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/category/fashion-and-lifestyle",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/category/art-&-craft",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/category/handicrafts-&-home-decor",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/category/handicrafts",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/category/beauty-&-art",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    }
+  ],
+  "redirectLinks": [
+    {
+      "url": "https://cityhangaround.com/auth/google",
+      "status": 200,
+      "finalUrl": "https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S-1676195645%3A1788520294093105&client_id=688878155235-las7p5a9sora9vp91aai0c2lstfebdtl.apps.googleusercontent.com&o2v=1&redirect_uri=https%3A%2F%2Fcityhangaround.com%2Fauth%2Fgoogle%2Fcallback&response_type=code&scope=openid+profile+email&service=lso&state=6gQUOi4LpalgLUMdLC69KJVWPacEhnztoyv5v419&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hANDQdojQPbmA0c17twCNVJR2NSAzgQKCM-j2ggXxWeDOIY6S2xjDqY24MTv4MrBK76ZIOZq3x0KjvBQOtObsaNLP8BiOIVebuWLb0LRgroFiRZMQ5MaRReUa3L04fMkAvdlco-jBSLJZ_Ju1FVxHqXdt1nnY3VWj585ZAH1el6vHeIrM5r1EGh_bQC3McEulcj61wJ0tEvRoEAWcSLxcgey9JIiHzPZ7Pl_0CeAf1rtyr_ptpjOIbPN6-vSoGSKoIbtLimIsbuqLLumBhLaNN7p_qCm99HivjO283HtJ7hoLMtbtazpCx5vjU1uC3dCFRNb5zFF3Fu01-0YYXKnvRTF9iK9yjEI5RcvU18USVaIMhaHAlIbXqcQKfSimBMsiLaN1Ea1P8LU2DlU9k1yNHRUN_Q5L5Gg4q3m7D-B82tNDk1FqDuDnA18v1CqrQiJzwpnUymoz0K5lR5cBbpoNfhUo2467w%26flowName%3DGeneralOAuthFlow%26as%3DS-1676195645%253A1788520294093105%26client_id%3D688878155235-las7p5a9sora9vp91aai0c2lstfebdtl.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fcityhangaround.com&rart=ANgoxccjKpATnCAYsbtI2kmaAjo7UlS3Cgel1jkRf_lMfzh2gsHhGAFfpHRzADsFnGcfYzM-orX69msK0kQR7fBU3FKSw8kjQOQcADpK8jNCKDtBiCG2evU"
+    },
+    {
+      "url": "https://cityhangaround.com/home",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login"
+    },
+    {
+      "url": "https://cityhangaround.com/auth/facebook",
+      "status": 200,
+      "finalUrl": "https://www.facebook.com/login.php?skip_api_login=1&api_key=1112075843555936&kid_directed_site=0&app_id=1112075843555936&signed_next=1&next=https%3A%2F%2Fwww.facebook.com%2Fv23.0%2Fdialog%2Foauth%3Fclient_id%3D1112075843555936%26redirect_uri%3Dhttps%253A%252F%252Fcityhangaround.com%252Fauth%252Ffacebook%252Fcallback%26scope%3Demail%26response_type%3Dcode%26state%3DclIgMm72dc1TkmCVz6XLiXPqG44DrmgTMc4Vg70L%26ret%3Dlogin%26fbapp_pres%3D0%26logger_id%3D6be65bf9-fb8b-47b2-8394-ba650079b91b%26tp%3Dunspecified&cancel_url=https%3A%2F%2Fcityhangaround.com%2Fauth%2Ffacebook%2Fcallback%3Ferror%3Daccess_denied%26error_code%3D200%26error_description%3DPermissions%2Berror%26error_reason%3Duser_denied%26state%3DclIgMm72dc1TkmCVz6XLiXPqG44DrmgTMc4Vg70L%23_%3D_&display=page&locale=hi_IN&pl_dbl=0&is_business_login=0"
+    },
+    {
+      "url": "https://cityhangaround.com/products/create",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login"
+    },
+    {
+      "url": "https://cityhangaround.com/user/subscriptions/view",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login"
+    },
+    {
+      "url": "https://cityhangaround.com/admin/page/create",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login"
+    },
+    {
+      "url": "https://cityhangaround.com/events/create",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login"
+    },
+    {
+      "url": "https://cityhangaround.com/blog/create",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login"
+    },
+    {
+      "url": "https://cityhangaround.com/profile",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login"
+    },
+    {
+      "url": "https://cityhangaround.com/about/page/view",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login"
+    },
+    {
+      "url": "https://cityhangaround.com/videos",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login"
+    },
+    {
+      "url": "https://cityhangaround.com/policy/page/view",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login"
+    },
+    {
+      "url": "https://cityhangaround.com/group/all/view",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login"
+    },
+    {
+      "url": "https://cityhangaround.com/groups/create",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login"
+    },
+    {
+      "url": "https://cityhangaround.com/group/view/details/59",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login"
+    },
+    {
+      "url": "https://cityhangaround.com/group/view/details/64",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login"
+    },
+    {
+      "url": "https://cityhangaround.com/group/view/details/62",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login"
+    },
+    {
+      "url": "https://cityhangaround.com/group/view/details/60",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login"
+    },
+    {
+      "url": "https://cityhangaround.com/group/view/details/57",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login"
+    },
+    {
+      "url": "https://cityhangaround.com/group/view/details/63",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login"
+    },
+    {
+      "url": "https://cityhangaround.com/user/view-profile/1",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login"
+    }
+  ]
+}

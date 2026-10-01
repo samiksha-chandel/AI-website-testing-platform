@@ -1,0 +1,30 @@
+{
+  "metrics": {
+    "dns": 28,
+    "connect": 162,
+    "ttfb": 1388,
+    "download": 232,
+    "domInteractive": 4965,
+    "domComplete": -1788520949253,
+    "loadEvent": -1788520949253,
+    "transferSize": 51585,
+    "encodedBodySize": 51285,
+    "decodedBodySize": 270250,
+    "source": "playwright-fallback",
+    "fcpMs": null,
+    "lcpMs": null,
+    "totalBlockingTimeMs": null,
+    "clsValue": null,
+    "speedIndexMs": null,
+    "ttiMs": null,
+    "ttfbMs": 1388
+  },
+  "findings": [
+    {
+      "severity": "HIGH",
+      "description": "Slow TTFB: 1388",
+      "metric": "TTFB",
+      "url": "https://cityhangaround.com/"
+    }
+  ]
+}

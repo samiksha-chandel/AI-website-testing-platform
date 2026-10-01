@@ -1,0 +1,126 @@
+{
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "cache-control": "no-store, no-cache, must-revalidate, max-age=0, post-check=0, pre-check=0, no-cache, private",
+    "cf-cache-status": "DYNAMIC",
+    "cf-ray": "a35c72700c4be6d0-AMS",
+    "connection": "keep-alive",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=utf-8",
+    "date": "Fri, 04 Sep 2026 10:52:51 GMT",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "pragma": "no-cache",
+    "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=a3Odaau3%2BbJe36MgHu%2BGZ%2BXuORF0R2irCGiCYSBBxX6w0dbe4Vmux3p1CAKo7f3hJJSlQNrT%2FtCVlyYmuN7xt4EhFrNBALzSATu4VCKtvB6l1X5cPZodQIRzD%2FyP4yzkM4%2Fpox5reORhG4pQ%2BXsNNTI%3D\"}]}",
+    "server": "cloudflare",
+    "server-timing": "cfCacheStatus;desc=\"DYNAMIC\", cfEdge;dur=435,cfOrigin;dur=0",
+    "set-cookie": "cityhangaround_session=eyJpdiI6Ik41M0VxMzFxbnVnSzlhbUFyaXAxL1E9PSIsInZhbHVlIjoiM3Q2alBiaStlbEk5bjRCbGg2Vy9iRWVkNkRpY2JtTzVaeGZHMnViMFg4WTdOZUZDMjNqay9BVFU3QUlEMFF4bmU3Uis5NDFrZ0NSL2IreUdGL2NMWXJCRGhoWUdYclZ4Uzk5K21GanFYMmlpYUNiRElSdEdNc1E0TlFudDYreVdFcklteXZSVlVQaHhtL0tUcncrbExVeTZFWHpJQ2FQbnlkVGlYdmFRb2FscERYcXdXdzdIT1h6WlRzSjd0Y3BiUHNiZWFpVVhDYlZtL0MrZklZbG8wMFd0WElDNldvSFFhbUkvTjZUWThxL041V2hKR3NZVzZQdHhVTUVSL2hFdEw1Vk9tVlVzSGpyN1UwV3NLL1BvSnRvTWMxbWE2Zlg2bFIrRkhkU3ZLY1JmNy91Zks4ejl3WHM2WUxnaG9hUDFZT3QxdW5jb2lvZVZhUmo1RE1MSkFuV01jcUcvRUxidyt0UU1mYkRSNUV0NVJFa2wzeSt0SndQd29FZWUyRGJxYWswTXNBMDZTR0diT1drZmRYdzlzMkZLZkJZbnRDWExnbStxR2hiWk1hcFU1Z3ZuOFpPV0xuY2dGTnFVMWJMdzlCL01BWE5Ed2p2M1FzSG5xWnQyRjVTdWhiNXZrOVRJVmJvaUhxd2gyY3VyUU1Gb0FDMm1yRzBGcEc4ckR5dkYiLCJtYWMiOiI4N2JmNWE1Y2ExYjBkNGQ1NjUwN2QyYTcyZDNmYWQyODM0YjAxNjAxNjgxMWQxN2RjNDU2YmM0ZTc1ZDhlMzI2IiwidGFnIjoiIn0%3D; expires=Fri, 04 Sep 2026 12:52:19 GMT; Max-Age=7200; path=/; secure; httponly; samesite=lax",
+    "speculation-rules": "\"/cdn-cgi/speculation\"",
+    "strict-transport-security": "max-age=0; includeSubDomains; preload",
+    "transfer-encoding": "chunked",
+    "vary": "Accept-Encoding, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "PHP/8.2.28"
+  },
+  "zapAlerts": [],
+  "findings": [
+    {
+      "type": "missing_header",
+      "header": "CSP",
+      "severity": "HIGH",
+      "description": "Missing CSP header",
+      "recommendation": "Add content-security-policy header to improve security",
+      "url": "https://cityhangaround.com/",
+      "source": "header-analysis",
+      "ruleId": "missing-csp",
+      "owaspRef": "WASC-15",
+      "category": "Security Headers"
+    },
+    {
+      "type": "missing_header",
+      "header": "X-Frame-Options",
+      "severity": "MEDIUM",
+      "description": "Missing X-Frame-Options header",
+      "recommendation": "Add x-frame-options header to improve security",
+      "url": "https://cityhangaround.com/",
+      "source": "header-analysis",
+      "ruleId": "missing-x-frame-options",
+      "owaspRef": "WASC-10",
+      "category": "Security Headers"
+    },
+    {
+      "type": "sensitive_url",
+      "severity": "MEDIUM",
+      "description": "URL may contain sensitive data: https://cityhangaround.com/forgot-password",
+      "url": "https://cityhangaround.com/forgot-password",
+      "source": "crawl-analysis",
+      "ruleId": "sensitive-url",
+      "category": "Information Exposure"
+    },
+    {
+      "type": "sensitive_url",
+      "severity": "MEDIUM",
+      "description": "URL may contain sensitive data: https://cityhangaround.com/auth/google",
+      "url": "https://cityhangaround.com/auth/google",
+      "source": "crawl-analysis",
+      "ruleId": "sensitive-url",
+      "category": "Information Exposure"
+    },
+    {
+      "type": "sensitive_url",
+      "severity": "MEDIUM",
+      "description": "URL may contain sensitive data: https://cityhangaround.com/auth/facebook",
+      "url": "https://cityhangaround.com/auth/facebook",
+      "source": "crawl-analysis",
+      "ruleId": "sensitive-url",
+      "category": "Information Exposure"
+    },
+    {
+      "type": "weak_header",
+      "header": "HSTS",
+      "severity": "LOW",
+      "description": "HSTS max-age is 0s — recommended ≥ 31536000s (1 year)",
+      "url": "https://cityhangaround.com/",
+      "source": "header-analysis",
+      "ruleId": "weak-hsts-maxage",
+      "category": "Transport Security"
+    },
+    {
+      "type": "missing_header",
+      "header": "X-XSS-Protection",
+      "severity": "LOW",
+      "description": "Missing X-XSS-Protection header",
+      "recommendation": "Add x-xss-protection header to improve security",
+      "url": "https://cityhangaround.com/",
+      "source": "header-analysis",
+      "ruleId": "missing-x-xss-protection",
+      "owaspRef": "WASC-15",
+      "category": "Security Headers"
+    },
+    {
+      "type": "missing_header",
+      "header": "Referrer-Policy",
+      "severity": "LOW",
+      "description": "Missing Referrer-Policy header",
+      "recommendation": "Add referrer-policy header to improve security",
+      "url": "https://cityhangaround.com/",
+      "source": "header-analysis",
+      "ruleId": "missing-referrer-policy",
+      "owaspRef": "WASC-15",
+      "category": "Security Headers"
+    },
+    {
+      "type": "missing_header",
+      "header": "Permissions-Policy",
+      "severity": "LOW",
+      "description": "Missing Permissions-Policy header",
+      "recommendation": "Add permissions-policy header to improve security",
+      "url": "https://cityhangaround.com/",
+      "source": "header-analysis",
+      "ruleId": "missing-permissions-policy",
+      "owaspRef": "WASC-15",
+      "category": "Security Headers"
+    }
+  ],
+  "isHTTPS": true,
+  "httpStatus": 200
+}

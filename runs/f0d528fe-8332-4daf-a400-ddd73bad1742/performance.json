@@ -1,0 +1,38 @@
+{
+  "metrics": {
+    "performanceScore": 33,
+    "fcp": "2.8 s",
+    "fcpMs": 2800,
+    "lcp": "6.6 s",
+    "lcpMs": 6600,
+    "totalBlockingTime": "8,280 ms",
+    "totalBlockingTimeMs": 280,
+    "cls": "0.002",
+    "clsValue": 0.001817160543813394,
+    "speedIndex": "17.1 s",
+    "speedIndexMs": 17100,
+    "tti": "21.5 s",
+    "ttiMs": 21500,
+    "ttfb": "Root document took 610 ms",
+    "ttfbMs": 611,
+    "source": "lighthouse",
+    "lighthouseVersion": "13.4.1",
+    "url": "https://cityhangaround.com/",
+    "requestCount": 60,
+    "totalByteWeight": "Total size was 1,023 KiB"
+  },
+  "findings": [
+    {
+      "severity": "HIGH",
+      "description": "Slow TTFB: Root document took 610 ms",
+      "metric": "TTFB",
+      "url": "https://cityhangaround.com/"
+    },
+    {
+      "severity": "HIGH",
+      "description": "Poor LCP: 6.6 s",
+      "metric": "LCP",
+      "url": "https://cityhangaround.com/"
+    }
+  ]
+}

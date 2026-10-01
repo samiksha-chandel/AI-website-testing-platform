@@ -1,0 +1,1658 @@
+{
+  "results": [
+    {
+      "url": "https://cityhangaround.com/admin/page/create",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login",
+      "isBroken": false,
+      "isRedirect": true,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/products/create",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login",
+      "isBroken": false,
+      "isRedirect": true,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/user/subscriptions/view",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login",
+      "isBroken": false,
+      "isRedirect": true,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/pages/custom/contact-us",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/pages/custom/contact-us",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/public-subscriptions",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/public-subscriptions",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/events/create",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login",
+      "isBroken": false,
+      "isRedirect": true,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/blog/create",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login",
+      "isBroken": false,
+      "isRedirect": true,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/groups",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/groups",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/login",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/forgot-password",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/forgot-password",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/term/condition/view",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/term/condition/view",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/auth/google",
+      "status": 200,
+      "finalUrl": "https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S873716815%3A1789064219195318&client_id=688878155235-las7p5a9sora9vp91aai0c2lstfebdtl.apps.googleusercontent.com&o2v=1&redirect_uri=https%3A%2F%2Fcityhangaround.com%2Fauth%2Fgoogle%2Fcallback&response_type=code&scope=openid+profile+email&service=lso&state=ciTE4MKivOLFNzBA1g3njYIfISQGtqIympQ9t7kg&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAN-rWmdI7yUIa1Kc7Nq8XsY_ZCZRqAdC-L2Q6d_ZV9VlJYEkxDBV3BN9Cr3LreUj6PuQywdsprDqUwZLZqL3hRjsJXzCUoJiyQeaiWL6F1I0gssvBTYf91B-dEhzf8jC72JquK-UqY7j8OCXl9pSfBsrDoOqTHM7N_kW4_xpm_PJ6xZsfJtkK9Ehboj_BdLZg1URhlPftFL2ToXHaRFBnC7Mt9t7qNx43Ws8n4Ir104bzsgQjqXeTIvE75NMP1A_s0ICRc3B4e1GgEu_FywUswTmVUH6BUSsNWlDl6yOPizti1A5whvKMNK39rcamzPPwndaEp-bYE7-wA6KyLjT1GHdjpkAYVQc0gpEfh36o-dZOfFMh2HNPDmSaVbnWBNy6D6RtRhy5WbvybUdohE4aboG4ZGv_TZFfuAXnIRrK4a1MJPzw8Tk4bSjHc5wbEeDUzqLlzL03jXMMGWqQlkWxtHl5fxaw%26flowName%3DGeneralOAuthFlow%26as%3DS873716815%253A1789064219195318%26client_id%3D688878155235-las7p5a9sora9vp91aai0c2lstfebdtl.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fcityhangaround.com&rart=ANgoxcebPWSLEMfS_vx6x0fB-8gnSpGeYUyLwjNd4JezKgiM23bL3mCMHPreaM1urJqCz8TtgDkFqe5W8zuUGL9p77MJ23ftV30PCOy3Q0Zb0KBxuUYcRWw",
+      "isBroken": false,
+      "isRedirect": true,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/auth/facebook",
+      "status": 200,
+      "finalUrl": "https://www.facebook.com/login.php?skip_api_login=1&api_key=1112075843555936&kid_directed_site=0&app_id=1112075843555936&signed_next=1&next=https%3A%2F%2Fwww.facebook.com%2Fv23.0%2Fdialog%2Foauth%3Fclient_id%3D1112075843555936%26redirect_uri%3Dhttps%253A%252F%252Fcityhangaround.com%252Fauth%252Ffacebook%252Fcallback%26scope%3Demail%26response_type%3Dcode%26state%3DBJg5zgYJwitG89w43z8AnOXH7SOKF9Q7lN7rN964%26ret%3Dlogin%26fbapp_pres%3D0%26logger_id%3D2168cff2-bd33-470e-bf3d-8703617ff85e%26tp%3Dunspecified&cancel_url=https%3A%2F%2Fcityhangaround.com%2Fauth%2Ffacebook%2Fcallback%3Ferror%3Daccess_denied%26error_code%3D200%26error_description%3DPermissions%2Berror%26error_reason%3Duser_denied%26state%3DBJg5zgYJwitG89w43z8AnOXH7SOKF9Q7lN7rN964%23_%3D_&display=page&locale=hi_IN&pl_dbl=0&is_business_login=0",
+      "isBroken": false,
+      "isRedirect": true,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/jaipur",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/jaipur",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/indore",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/indore",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/coimbatore",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/coimbatore",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/chandigarh",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/chandigarh",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/surat",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/surat",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/delhi-delhi",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/delhi-delhi",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/chennai",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/chennai",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/hyderabad",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/hyderabad",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/rajkot",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/rajkot",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/madurai",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/madurai",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/home",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login",
+      "isBroken": false,
+      "isRedirect": true,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/profile",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login",
+      "isBroken": false,
+      "isRedirect": true,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/pages",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/pages",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/deals",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/deals",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/videos",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/videos",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/event/all",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/event/all",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/blog/all",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/blog/all",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/about/page/view",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/about/page/view",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/policy/page/view",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/policy/page/view",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/event/sports-in-south-delhi",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/event/sports-in-south-delhi",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/event/south-delhi/okhla-industrial-estate",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/event/south-delhi/okhla-industrial-estate",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/event/south-delhi/okhla-industrial-estate/sports/govindpuri-complex?id=39",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/event/south-delhi/okhla-industrial-estate/sports/govindpuri-complex?id=39",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/alirajpur/khandala/health-and-fitness/approved-gym-listing/gymbag-grooming/gym-equipment",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/deals/alirajpur/khandala/health-and-fitness/approved-gym-listing/gymbag-grooming/gym-equipment",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/agar/badagaon/game/battle-arena-page/education/note-book",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/deals/agar/badagaon/game/battle-arena-page/education/note-book",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/dibai/mahadev-chauraha-railway-road/kirana-stores-general-provision-stores/jitin-sai-traders/indian-masala/dhaniya-powder-250-gm",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/deals/dibai/mahadev-chauraha-railway-road/kirana-stores-general-provision-stores/jitin-sai-traders/indian-masala/dhaniya-powder-250-gm",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/dibai/mahadev-chauraha-railway-road/kirana-stores-general-provision-stores/jitin-sai-traders/washing-powder/surf-excel-detergent-1-kg",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/deals/dibai/mahadev-chauraha-railway-road/kirana-stores-general-provision-stores/jitin-sai-traders/washing-powder/surf-excel-detergent-1-kg",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/dibai/mahadev-chauraha-railway-road/kirana-stores-general-provision-stores/jitin-sai-traders/cooking-oil/fortune-refind-oil-1-liter",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/deals/dibai/mahadev-chauraha-railway-road/kirana-stores-general-provision-stores/jitin-sai-traders/cooking-oil/fortune-refind-oil-1-liter",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/dibai/mahadev-chauraha-railway-road/kirana-stores-general-provision-stores/jitin-sai-traders/bath-soap/lux-bathing-bar-100-gm-5",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/deals/dibai/mahadev-chauraha-railway-road/kirana-stores-general-provision-stores/jitin-sai-traders/bath-soap/lux-bathing-bar-100-gm-5",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/appliances-in-jaipur",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/deals/appliances-in-jaipur",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/jaipur",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/deals/jaipur",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/jaipur/bindayaka",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/deals/jaipur/bindayaka",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/jaipur/appliances-in-bindayaka",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/deals/jaipur/appliances-in-bindayaka",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/jaipur/bindayaka/labs-and-diagnostic-centre/dkm-diagnostic-centre-130902",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/jaipur/bindayaka/labs-and-diagnostic-centre/dkm-diagnostic-centre-130902",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/jaipur/bindayaka/labs-and-diagnostic-centre/dkm-diagnostic-centre-130902/appliances/test-product",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/deals/jaipur/bindayaka/labs-and-diagnostic-centre/dkm-diagnostic-centre-130902/appliances/test-product",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/cell-phones-and-accessories-in-ahmedabad",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/deals/cell-phones-and-accessories-in-ahmedabad",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/ahmedabad",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/deals/ahmedabad",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/ahmedabad/bapu-nagar",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/deals/ahmedabad/bapu-nagar",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/ahmedabad/cell-phones-and-accessories-in-bapu-nagar",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/ahmedabad/cell-phones-and-accessories-in-bapu-nagar",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/ahmedabad/bapu-nagar/shopping/cloth-shop",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/ahmedabad/bapu-nagar/shopping/cloth-shop",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/ahmedabad/bapu-nagar/shopping/cloth-shop/cell-phones-and-accessories/mobile-cover",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/ahmedabad/bapu-nagar/shopping/cloth-shop/cell-phones-and-accessories/mobile-cover",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/ahmedabad/bodakdev/bakery/crazy-plant-lady-caf/bakery/matcha-latte",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/ahmedabad/bodakdev/bakery/crazy-plant-lady-caf/bakery/matcha-latte",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/ahmedabad/naranpura/bakery/dangee-dums-471690/bakery-desserts/nutella-cheese-cake",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/ahmedabad/naranpura/bakery/dangee-dums-471690/bakery-desserts/nutella-cheese-cake",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/ahmedabad/bodakdev/bakery/buttercupp-a-cupcake-shoppe/bakery-desserts/double-dip-cupcake",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/ahmedabad/bodakdev/bakery/buttercupp-a-cupcake-shoppe/bakery-desserts/double-dip-cupcake",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/ahmedabad/sarkhej-gandhinagar-highway/north-indian/mirch-masala-471672/north-india/chefs-kofta-lajawab",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/ahmedabad/sarkhej-gandhinagar-highway/north-indian/mirch-masala-471672/north-india/chefs-kofta-lajawab",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/ahmedabad/thaltej-road/north-indian-restaurant/punjab-grill-471670/north-indian/ambi-panna",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/ahmedabad/thaltej-road/north-indian-restaurant/punjab-grill-471670/north-indian/ambi-panna",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/ahmedabad/thaltej-road/north-indian-restaurant/amritsari-haveli-471666/north-indian-restaurant/haveli-paneer-tikka",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/ahmedabad/thaltej-road/north-indian-restaurant/amritsari-haveli-471666/north-indian-restaurant/haveli-paneer-tikka",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/study-in-agar",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/study-in-agar",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/agar",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/agar",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/agar/badagaon",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/agar/badagaon",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/agar/study-in-badagaon",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/agar/study-in-badagaon",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/agar/badagaon/game/battle-arena-page",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/agar/badagaon/game/battle-arena-page",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/agar/badagaon/game/battle-arena-page/study/note-book",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/agar/badagaon/game/battle-arena-page/study/note-book",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/indian-blend-in-chandpur-uttar-pradesh",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/indian-blend-in-chandpur-uttar-pradesh",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/chandpur-uttar-pradesh",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/chandpur-uttar-pradesh",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/chandpur-uttar-pradesh/mandi-kotla",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/chandpur-uttar-pradesh/mandi-kotla",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/chandpur-uttar-pradesh/indian-blend-in-mandi-kotla",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/chandpur-uttar-pradesh/indian-blend-in-mandi-kotla",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/chandpur-uttar-pradesh/mandi-kotla/grocery-store/radhakrishan-sukhdev-kumar-general-store",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/chandpur-uttar-pradesh/mandi-kotla/grocery-store/radhakrishan-sukhdev-kumar-general-store",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/chandpur-uttar-pradesh/mandi-kotla/grocery-store/radhakrishan-sukhdev-kumar-general-store/indian-blend/brooke-bond-red-label-tea-250g",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/chandpur-uttar-pradesh/mandi-kotla/grocery-store/radhakrishan-sukhdev-kumar-general-store/indian-blend/brooke-bond-red-label-tea-250g",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/chandpur-uttar-pradesh/mandi-kotla/grocery-stores-department-store/radhakrishan-sukhdev-kumar-general-store/rice-and-grains/basmati-rice",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/chandpur-uttar-pradesh/mandi-kotla/grocery-stores-department-store/radhakrishan-sukhdev-kumar-general-store/rice-and-grains/basmati-rice",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/chandpur-uttar-pradesh/mandi-kotla/grocery-stores-department-store/radhakrishan-sukhdev-kumar-general-store/daal/arhar-daal",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/chandpur-uttar-pradesh/mandi-kotla/grocery-stores-department-store/radhakrishan-sukhdev-kumar-general-store/daal/arhar-daal",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/chandpur-uttar-pradesh/mandi-kotla/grocery-stores-department-store/radhakrishan-sukhdev-kumar-general-store/washing-powder/rin-advanced-detergent-powder-1kg",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/chandpur-uttar-pradesh/mandi-kotla/grocery-stores-department-store/radhakrishan-sukhdev-kumar-general-store/washing-powder/rin-advanced-detergent-powder-1kg",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/chandpur-uttar-pradesh/mandi-kotla/grocery-stores-department-store/radhakrishan-sukhdev-kumar-general-store/choco-cookies/hide-seek-fab-choco-chips-120g",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/chandpur-uttar-pradesh/mandi-kotla/grocery-stores-department-store/radhakrishan-sukhdev-kumar-general-store/choco-cookies/hide-seek-fab-choco-chips-120g",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/chandpur-uttar-pradesh/mandi-kotla/grocery-stores-department-store/radhakrishan-sukhdev-kumar-general-store/noodles/yippee-noodles-magic-masala-60g",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/chandpur-uttar-pradesh/mandi-kotla/grocery-stores-department-store/radhakrishan-sukhdev-kumar-general-store/noodles/yippee-noodles-magic-masala-60g",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/chandpur-uttar-pradesh/mandi-kotla/grocery-stores-department-store/radhakrishan-sukhdev-kumar-general-store/atta/pillsbury-chakki-fresh-atta-5kg",
+      "status": 500,
+      "finalUrl": "https://cityhangaround.com/deals/chandpur-uttar-pradesh/mandi-kotla/grocery-stores-department-store/radhakrishan-sukhdev-kumar-general-store/atta/pillsbury-chakki-fresh-atta-5kg",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/spices-and-condiments-in-chandpur-uttar-pradesh",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/spices-and-condiments-in-chandpur-uttar-pradesh",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/chandpur-uttar-pradesh/spices-and-condiments-in-mandi-kotla",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/chandpur-uttar-pradesh/spices-and-condiments-in-mandi-kotla",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/chandpur-uttar-pradesh/mandi-kotla/grocery-store/radhakrishan-sukhdev-kumar-general-store/spices-and-condiments/everest-red-chilli-powder-100g",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/chandpur-uttar-pradesh/mandi-kotla/grocery-store/radhakrishan-sukhdev-kumar-general-store/spices-and-condiments/everest-red-chilli-powder-100g",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/quick-snack-in-chandpur-uttar-pradesh",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/quick-snack-in-chandpur-uttar-pradesh",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/chandpur-uttar-pradesh/quick-snack-in-mandi-kotla",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/chandpur-uttar-pradesh/quick-snack-in-mandi-kotla",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/chandpur-uttar-pradesh/mandi-kotla/grocery-store/radhakrishan-sukhdev-kumar-general-store/quick-snack/yippee-noodles-magic-masala-60g",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/chandpur-uttar-pradesh/mandi-kotla/grocery-store/radhakrishan-sukhdev-kumar-general-store/quick-snack/yippee-noodles-magic-masala-60g",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/snacks-and-biscuits-in-chandpur-uttar-pradesh",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/snacks-and-biscuits-in-chandpur-uttar-pradesh",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/chandpur-uttar-pradesh/snacks-and-biscuits-in-mandi-kotla",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/chandpur-uttar-pradesh/snacks-and-biscuits-in-mandi-kotla",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/chandpur-uttar-pradesh/mandi-kotla/grocery-store/radhakrishan-sukhdev-kumar-general-store/snacks-and-biscuits/hide-seek-fab-choco-chips-120g",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/chandpur-uttar-pradesh/mandi-kotla/grocery-store/radhakrishan-sukhdev-kumar-general-store/snacks-and-biscuits/hide-seek-fab-choco-chips-120g",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/bright-clothes-in-chandpur-uttar-pradesh",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/bright-clothes-in-chandpur-uttar-pradesh",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/chandpur-uttar-pradesh/bright-clothes-in-mandi-kotla",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/chandpur-uttar-pradesh/bright-clothes-in-mandi-kotla",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/chandpur-uttar-pradesh/mandi-kotla/grocery-store/radhakrishan-sukhdev-kumar-general-store/bright-clothes/rin-advanced-detergent-powder-1kg",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/chandpur-uttar-pradesh/mandi-kotla/grocery-store/radhakrishan-sukhdev-kumar-general-store/bright-clothes/rin-advanced-detergent-powder-1kg",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/gymbag-grooming-in-alirajpur",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/gymbag-grooming-in-alirajpur",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/alirajpur",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/alirajpur",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/alirajpur/khandala",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/alirajpur/khandala",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/alirajpur/gymbag-grooming-in-khandala",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/alirajpur/gymbag-grooming-in-khandala",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/alirajpur/khandala/health-and-fitness/approved-gym-listing",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/alirajpur/khandala/health-and-fitness/approved-gym-listing",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/car-accessories-in-ahmedabad",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/car-accessories-in-ahmedabad",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/ahmedabad/navrangpura",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/ahmedabad/navrangpura",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/ahmedabad/car-accessories-in-navrangpura",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/ahmedabad/car-accessories-in-navrangpura",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/ahmedabad/navrangpura/car-electronics/aadinath-car-accessories",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/ahmedabad/navrangpura/car-electronics/aadinath-car-accessories",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/ahmedabad/navrangpura/car-electronics/aadinath-car-accessories/car-accessories/car-tweeter",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/ahmedabad/navrangpura/car-electronics/aadinath-car-accessories/car-accessories/car-tweeter",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/multimedia-player-in-ahmedabad",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/multimedia-player-in-ahmedabad",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/ahmedabad/multimedia-player-in-navrangpura",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/deals/ahmedabad/multimedia-player-in-navrangpura",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/ahmedabad/navrangpura/car-electronics/aadinath-car-accessories/multimedia-player/car-multimedia-player",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/deals/ahmedabad/navrangpura/car-electronics/aadinath-car-accessories/multimedia-player/car-multimedia-player",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/clothing-and-accessories-in-noida",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/deals/clothing-and-accessories-in-noida",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/women-clothing-in-noida",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/deals/women-clothing-in-noida",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/womens-clothing-in-noida",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/deals/womens-clothing-in-noida",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/noida",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/deals/noida",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/noida/gautam-budh-nagar",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/deals/noida/gautam-budh-nagar",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/noida/clothing-and-accessories-in-gautam-budh-nagar",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/deals/noida/clothing-and-accessories-in-gautam-budh-nagar",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/noida/gautam-budh-nagar/fashion-and-apparel/inseam-india",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/noida/gautam-budh-nagar/fashion-and-apparel/inseam-india",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/noida/gautam-budh-nagar/fashion-and-apparel/inseam-india/clothing-and-accessories/pink-floral-cord-set",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/deals/noida/gautam-budh-nagar/fashion-and-apparel/inseam-india/clothing-and-accessories/pink-floral-cord-set",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/noida/gautam-budh-nagar/fashion-and-apparel/inseam-india/women-clothing/black-printed-coord-set",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/deals/noida/gautam-budh-nagar/fashion-and-apparel/inseam-india/women-clothing/black-printed-coord-set",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/noida/gautam-budh-nagar/fashion-and-apparel/inseam-india/women-clothing/bricks-cord-set",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/deals/noida/gautam-budh-nagar/fashion-and-apparel/inseam-india/women-clothing/bricks-cord-set",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/noida/gautam-budh-nagar/fashion-and-apparel/inseam-india/women-clothing/black-designer-shirt",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/deals/noida/gautam-budh-nagar/fashion-and-apparel/inseam-india/women-clothing/black-designer-shirt",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/noida/gautam-budh-nagar/fashion-and-apparel/inseam-india/clothing-and-accessories/brown-printed-shirt",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/deals/noida/gautam-budh-nagar/fashion-and-apparel/inseam-india/clothing-and-accessories/brown-printed-shirt",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/noida/gautam-budh-nagar/fashion-and-apparel/inseam-india/women-clothing/purple-with-floral-shirt",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/deals/noida/gautam-budh-nagar/fashion-and-apparel/inseam-india/women-clothing/purple-with-floral-shirt",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/noida/gautam-budh-nagar/fashion-and-apparel/inseam-india/womens-wear/floral-top",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/deals/noida/gautam-budh-nagar/fashion-and-apparel/inseam-india/womens-wear/floral-top",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/noida/gautam-budh-nagar/fashion-and-apparel/inseam-india/women-clothing/barbie-floral-top",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/deals/noida/gautam-budh-nagar/fashion-and-apparel/inseam-india/women-clothing/barbie-floral-top",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/noida/gautam-budh-nagar/fashion-and-apparel/inseam-india/ladies-wear/purple-with-floral-shirt",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/deals/noida/gautam-budh-nagar/fashion-and-apparel/inseam-india/ladies-wear/purple-with-floral-shirt",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/noida/gautam-budh-nagar/fashion-and-apparel/inseam-india/clothing-and-accessories/black-designer-shirt",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/deals/noida/gautam-budh-nagar/fashion-and-apparel/inseam-india/clothing-and-accessories/black-designer-shirt",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/noida/gautam-budh-nagar/fashion-and-apparel/inseam-india/clothing-and-accessories/bricks-cord-set",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/deals/noida/gautam-budh-nagar/fashion-and-apparel/inseam-india/clothing-and-accessories/bricks-cord-set",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/noida/women-clothing-in-gautam-budh-nagar",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/deals/noida/women-clothing-in-gautam-budh-nagar",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/mens-loungewear-accessories-in-deoria",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/deals/mens-loungewear-accessories-in-deoria",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/deoria",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/deals/deoria",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/deoria/cc-road",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/deals/deoria/cc-road",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/deoria/mens-loungewear-accessories-in-cc-road",
+      "status": "TIMEOUT",
+      "finalUrl": "https://cityhangaround.com/deals/deoria/mens-loungewear-accessories-in-cc-road",
+      "isBroken": true,
+      "isRedirect": false,
+      "error": "This operation was aborted",
+      "method": "GET"
+    },
+    {
+      "url": "https://cityhangaround.com/deoria/cc-road/fashion-and-lifestyle/vincent-wogue",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deoria/cc-road/fashion-and-lifestyle/vincent-wogue",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/deoria/cc-road/fashion-and-lifestyle/vincent-wogue/mens-loungewear-accessories/neutral-beige-joggers-matching-cap-set",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/deoria/cc-road/fashion-and-lifestyle/vincent-wogue/mens-loungewear-accessories/neutral-beige-joggers-matching-cap-set",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/deoria/cc-road/fashion-and-lifestyle/vincent-wogue/summer-shirt/summer-check-shirt-rolled-chinos",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/deoria/cc-road/fashion-and-lifestyle/vincent-wogue/summer-shirt/summer-check-shirt-rolled-chinos",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/deoria/cc-road/fashion-and-lifestyle/vincent-wogue/casualwear/solid-crewneck-tshirt-trio",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/deoria/cc-road/fashion-and-lifestyle/vincent-wogue/casualwear/solid-crewneck-tshirt-trio",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/deoria/cc-road/mens-fashion/vincent-wogue/casualwear/solid-crewneck-tshirt-trio",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/deoria/cc-road/mens-fashion/vincent-wogue/casualwear/solid-crewneck-tshirt-trio",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/deoria/cc-road/mens-fashion/vincent-wogue/check-shirt/summer-check-shirt-rolled-chinos",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/deoria/cc-road/mens-fashion/vincent-wogue/check-shirt/summer-check-shirt-rolled-chinos",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/deoria/cc-road/mens-fashion/vincent-wogue/mens-loungewear-accessories/neutral-beige-joggers-matching-cap-set",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/deoria/cc-road/mens-fashion/vincent-wogue/mens-loungewear-accessories/neutral-beige-joggers-matching-cap-set",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/summer-shirt-in-deoria",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/summer-shirt-in-deoria",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/deoria/summer-shirt-in-cc-road",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/deoria/summer-shirt-in-cc-road",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/casualwear-in-deoria",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/casualwear-in-deoria",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/deoria/casualwear-in-cc-road",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/deoria/casualwear-in-cc-road",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/ladies-wear-in-noida",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/ladies-wear-in-noida",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/noida/ladies-wear-in-gautam-budh-nagar",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/noida/ladies-wear-in-gautam-budh-nagar",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/ladies-dresses-in-noida",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/ladies-dresses-in-noida",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/noida/ladies-dresses-in-gautam-budh-nagar",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/noida/ladies-dresses-in-gautam-budh-nagar",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/dance-fitness-in-chandpur",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/dance-fitness-in-chandpur",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/chandpur",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/chandpur",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/chandpur/main-market-near-shankar-murti",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/chandpur/main-market-near-shankar-murti",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/chandpur/dance-fitness-in-main-market-near-shankar-murti",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/chandpur/dance-fitness-in-main-market-near-shankar-murti",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/chandpur/main-market-near-shankar-murti/health-and-fitness/misfitbychandni",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/chandpur/main-market-near-shankar-murti/health-and-fitness/misfitbychandni",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/chandpur/main-market-near-shankar-murti/health-and-fitness/misfitbychandni/dance-fitness/1-month-plan",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/chandpur/main-market-near-shankar-murti/health-and-fitness/misfitbychandni/dance-fitness/1-month-plan",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/chandpur/main-market-near-shankar-murti/health-and-fitness/misfitbychandni/dance/3-month-plan",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/chandpur/main-market-near-shankar-murti/health-and-fitness/misfitbychandni/dance/3-month-plan",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/chandpur/main-market-near-shankar-murti/health-and-fitness/misfitbychandni/zumba/6-month-plan",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/chandpur/main-market-near-shankar-murti/health-and-fitness/misfitbychandni/zumba/6-month-plan",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/chandpur/near-sargam-theatre/mens-clothes/smm-textile/tshirt/white-shirt",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/chandpur/near-sargam-theatre/mens-clothes/smm-textile/tshirt/white-shirt",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/chandpur/navyug-market/decorative-items/abc-gift-shop/occasional-gifts/teddy-bear",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/deals/chandpur/navyug-market/decorative-items/abc-gift-shop/occasional-gifts/teddy-bear",
+      "isBroken": false,
+      "isRedirect": false,
+      "error": null,
+      "method": "HEAD"
+    }
+  ],
+  "brokenLinks": [
+    {
+      "url": "https://cityhangaround.com/pages",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/deals",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/videos",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/event/all",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/blog/all",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/about/page/view",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/policy/page/view",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/event/sports-in-south-delhi",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/event/south-delhi/okhla-industrial-estate",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/event/south-delhi/okhla-industrial-estate/sports/govindpuri-complex?id=39",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/alirajpur/khandala/health-and-fitness/approved-gym-listing/gymbag-grooming/gym-equipment",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/agar/badagaon/game/battle-arena-page/education/note-book",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/dibai/mahadev-chauraha-railway-road/kirana-stores-general-provision-stores/jitin-sai-traders/indian-masala/dhaniya-powder-250-gm",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/dibai/mahadev-chauraha-railway-road/kirana-stores-general-provision-stores/jitin-sai-traders/washing-powder/surf-excel-detergent-1-kg",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/dibai/mahadev-chauraha-railway-road/kirana-stores-general-provision-stores/jitin-sai-traders/cooking-oil/fortune-refind-oil-1-liter",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/dibai/mahadev-chauraha-railway-road/kirana-stores-general-provision-stores/jitin-sai-traders/bath-soap/lux-bathing-bar-100-gm-5",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/appliances-in-jaipur",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/jaipur",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/jaipur/bindayaka",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/jaipur/appliances-in-bindayaka",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/jaipur/bindayaka/labs-and-diagnostic-centre/dkm-diagnostic-centre-130902",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/jaipur/bindayaka/labs-and-diagnostic-centre/dkm-diagnostic-centre-130902/appliances/test-product",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/cell-phones-and-accessories-in-ahmedabad",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/ahmedabad",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/ahmedabad/bapu-nagar",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/chandpur-uttar-pradesh/mandi-kotla/grocery-stores-department-store/radhakrishan-sukhdev-kumar-general-store/atta/pillsbury-chakki-fresh-atta-5kg",
+      "status": 500,
+      "error": null
+    },
+    {
+      "url": "https://cityhangaround.com/deals/ahmedabad/multimedia-player-in-navrangpura",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/ahmedabad/navrangpura/car-electronics/aadinath-car-accessories/multimedia-player/car-multimedia-player",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/clothing-and-accessories-in-noida",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/women-clothing-in-noida",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/womens-clothing-in-noida",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/noida",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/noida/gautam-budh-nagar",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/noida/clothing-and-accessories-in-gautam-budh-nagar",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/noida/gautam-budh-nagar/fashion-and-apparel/inseam-india",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/noida/gautam-budh-nagar/fashion-and-apparel/inseam-india/clothing-and-accessories/pink-floral-cord-set",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/noida/gautam-budh-nagar/fashion-and-apparel/inseam-india/women-clothing/black-printed-coord-set",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/noida/gautam-budh-nagar/fashion-and-apparel/inseam-india/women-clothing/bricks-cord-set",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/noida/gautam-budh-nagar/fashion-and-apparel/inseam-india/women-clothing/black-designer-shirt",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/noida/gautam-budh-nagar/fashion-and-apparel/inseam-india/clothing-and-accessories/brown-printed-shirt",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/noida/gautam-budh-nagar/fashion-and-apparel/inseam-india/women-clothing/purple-with-floral-shirt",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/noida/gautam-budh-nagar/fashion-and-apparel/inseam-india/womens-wear/floral-top",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/noida/gautam-budh-nagar/fashion-and-apparel/inseam-india/women-clothing/barbie-floral-top",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/noida/gautam-budh-nagar/fashion-and-apparel/inseam-india/ladies-wear/purple-with-floral-shirt",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/noida/gautam-budh-nagar/fashion-and-apparel/inseam-india/clothing-and-accessories/black-designer-shirt",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/noida/gautam-budh-nagar/fashion-and-apparel/inseam-india/clothing-and-accessories/bricks-cord-set",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/noida/women-clothing-in-gautam-budh-nagar",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/mens-loungewear-accessories-in-deoria",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/deoria",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/deoria/cc-road",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://cityhangaround.com/deals/deoria/mens-loungewear-accessories-in-cc-road",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted"
+    }
+  ],
+  "redirectLinks": [
+    {
+      "url": "https://cityhangaround.com/events/create",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login"
+    },
+    {
+      "url": "https://cityhangaround.com/blog/create",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login"
+    },
+    {
+      "url": "https://cityhangaround.com/admin/page/create",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login"
+    },
+    {
+      "url": "https://cityhangaround.com/products/create",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login"
+    },
+    {
+      "url": "https://cityhangaround.com/user/subscriptions/view",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login"
+    },
+    {
+      "url": "https://cityhangaround.com/profile",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login"
+    },
+    {
+      "url": "https://cityhangaround.com/auth/google",
+      "status": 200,
+      "finalUrl": "https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S873716815%3A1789064219195318&client_id=688878155235-las7p5a9sora9vp91aai0c2lstfebdtl.apps.googleusercontent.com&o2v=1&redirect_uri=https%3A%2F%2Fcityhangaround.com%2Fauth%2Fgoogle%2Fcallback&response_type=code&scope=openid+profile+email&service=lso&state=ciTE4MKivOLFNzBA1g3njYIfISQGtqIympQ9t7kg&flowName=GeneralOAuthLite&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Flegacy%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAN-rWmdI7yUIa1Kc7Nq8XsY_ZCZRqAdC-L2Q6d_ZV9VlJYEkxDBV3BN9Cr3LreUj6PuQywdsprDqUwZLZqL3hRjsJXzCUoJiyQeaiWL6F1I0gssvBTYf91B-dEhzf8jC72JquK-UqY7j8OCXl9pSfBsrDoOqTHM7N_kW4_xpm_PJ6xZsfJtkK9Ehboj_BdLZg1URhlPftFL2ToXHaRFBnC7Mt9t7qNx43Ws8n4Ir104bzsgQjqXeTIvE75NMP1A_s0ICRc3B4e1GgEu_FywUswTmVUH6BUSsNWlDl6yOPizti1A5whvKMNK39rcamzPPwndaEp-bYE7-wA6KyLjT1GHdjpkAYVQc0gpEfh36o-dZOfFMh2HNPDmSaVbnWBNy6D6RtRhy5WbvybUdohE4aboG4ZGv_TZFfuAXnIRrK4a1MJPzw8Tk4bSjHc5wbEeDUzqLlzL03jXMMGWqQlkWxtHl5fxaw%26flowName%3DGeneralOAuthFlow%26as%3DS873716815%253A1789064219195318%26client_id%3D688878155235-las7p5a9sora9vp91aai0c2lstfebdtl.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fcityhangaround.com&rart=ANgoxcebPWSLEMfS_vx6x0fB-8gnSpGeYUyLwjNd4JezKgiM23bL3mCMHPreaM1urJqCz8TtgDkFqe5W8zuUGL9p77MJ23ftV30PCOy3Q0Zb0KBxuUYcRWw"
+    },
+    {
+      "url": "https://cityhangaround.com/home",
+      "status": 200,
+      "finalUrl": "https://cityhangaround.com/login"
+    },
+    {
+      "url": "https://cityhangaround.com/auth/facebook",
+      "status": 200,
+      "finalUrl": "https://www.facebook.com/login.php?skip_api_login=1&api_key=1112075843555936&kid_directed_site=0&app_id=1112075843555936&signed_next=1&next=https%3A%2F%2Fwww.facebook.com%2Fv23.0%2Fdialog%2Foauth%3Fclient_id%3D1112075843555936%26redirect_uri%3Dhttps%253A%252F%252Fcityhangaround.com%252Fauth%252Ffacebook%252Fcallback%26scope%3Demail%26response_type%3Dcode%26state%3DBJg5zgYJwitG89w43z8AnOXH7SOKF9Q7lN7rN964%26ret%3Dlogin%26fbapp_pres%3D0%26logger_id%3D2168cff2-bd33-470e-bf3d-8703617ff85e%26tp%3Dunspecified&cancel_url=https%3A%2F%2Fcityhangaround.com%2Fauth%2Ffacebook%2Fcallback%3Ferror%3Daccess_denied%26error_code%3D200%26error_description%3DPermissions%2Berror%26error_reason%3Duser_denied%26state%3DBJg5zgYJwitG89w43z8AnOXH7SOKF9Q7lN7rN964%23_%3D_&display=page&locale=hi_IN&pl_dbl=0&is_business_login=0"
+    }
+  ]
+}

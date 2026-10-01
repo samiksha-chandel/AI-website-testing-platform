@@ -1,0 +1,145 @@
+{
+  "testResults": [
+    {
+      "id": "func-homepage-load",
+      "name": "Homepage loads correctly",
+      "description": "Verify the homepage loads within reasonable time",
+      "type": "navigation",
+      "status": "PASSED",
+      "error": null,
+      "duration": 15750,
+      "screenshot": null
+    },
+    {
+      "id": "func-nav-1",
+      "name": "Navigate to: Add Business",
+      "description": "Verify navigation link \"Add Business\" works",
+      "type": "navigation",
+      "status": "PASSED",
+      "error": null,
+      "duration": 5292,
+      "screenshot": null
+    },
+    {
+      "id": "func-nav-2",
+      "name": "Navigate to: List Product/Service",
+      "description": "Verify navigation link \"List Product/Service\" works",
+      "type": "navigation",
+      "status": "PASSED",
+      "error": null,
+      "duration": 2362,
+      "screenshot": null
+    },
+    {
+      "id": "func-nav-3",
+      "name": "Interaction: Login / Signup",
+      "description": "Verify interactive control \"Login / Signup\" (javascript: pseudo-link)",
+      "type": "interaction",
+      "status": "PASSED",
+      "error": null,
+      "duration": 2686,
+      "screenshot": null
+    },
+    {
+      "id": "func-nav-4",
+      "name": "Navigate to: Advertisement",
+      "description": "Verify navigation link \"Advertisement\" works",
+      "type": "navigation",
+      "status": "PASSED",
+      "error": null,
+      "duration": 1780,
+      "screenshot": null
+    },
+    {
+      "id": "func-nav-5",
+      "name": "Navigate to: Contact",
+      "description": "Verify navigation link \"Contact\" works",
+      "type": "navigation",
+      "status": "PASSED",
+      "error": null,
+      "duration": 1787,
+      "screenshot": null
+    },
+    {
+      "id": "func-nav-6",
+      "name": "Navigate to: Promotion",
+      "description": "Verify navigation link \"Promotion\" works",
+      "type": "navigation",
+      "status": "PASSED",
+      "error": null,
+      "duration": 897,
+      "screenshot": null
+    },
+    {
+      "id": "func-page-7",
+      "name": "Page loads: /",
+      "description": "Verify page loads correctly",
+      "type": "navigation",
+      "status": "PASSED",
+      "error": null,
+      "duration": 1641,
+      "screenshot": null
+    },
+    {
+      "id": "func-page-8",
+      "name": "Page loads: /hyderabad/banjara-hills/budget-hotels/guest-inn-suites-castle-hotel/",
+      "description": "Verify page loads correctly",
+      "type": "navigation",
+      "status": "PASSED",
+      "error": null,
+      "duration": 4469,
+      "screenshot": null
+    },
+    {
+      "id": "func-page-9",
+      "name": "Page loads: /hyderabad/madhapur/budget-hotels/nrs-royal-recreation/",
+      "description": "Verify page loads correctly",
+      "type": "navigation",
+      "status": "PASSED",
+      "error": null,
+      "duration": 4194,
+      "screenshot": null
+    },
+    {
+      "id": "func-page-10",
+      "name": "Page loads: /hyderabad/nagole/budget-hotels/hotel-swagath-grand/",
+      "description": "Verify page loads correctly",
+      "type": "navigation",
+      "status": "PASSED",
+      "error": null,
+      "duration": 5290,
+      "screenshot": null
+    },
+    {
+      "id": "func-images-load",
+      "name": "Images load correctly",
+      "description": "Verify images on the page load without errors",
+      "type": "resource",
+      "status": "WARNING",
+      "error": "13 broken images found",
+      "duration": 10566,
+      "screenshot": null
+    },
+    {
+      "id": "func-console-errors",
+      "name": "No JavaScript errors",
+      "description": "Verify no critical JavaScript errors on page load",
+      "type": "console",
+      "status": "PASSED",
+      "error": null,
+      "duration": 1814,
+      "screenshot": null
+    },
+    {
+      "id": "func-responsive",
+      "name": "Responsive layout check",
+      "description": "Verify page renders at mobile viewport",
+      "type": "responsive",
+      "status": "PASSED",
+      "error": null,
+      "duration": 1838,
+      "screenshot": null
+    }
+  ],
+  "screenshots": []
+}

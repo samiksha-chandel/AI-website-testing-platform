@@ -1,0 +1,72 @@
+{
+  "findings": [
+    {
+      "ruleId": "long-title",
+      "severity": "LOW",
+      "description": "Title is too long (71 chars) - may be truncated in SERPs",
+      "category": "meta"
+    },
+    {
+      "ruleId": "long-description",
+      "severity": "LOW",
+      "description": "Meta description is too long (169 chars)",
+      "category": "meta"
+    },
+    {
+      "ruleId": "multiple-h1",
+      "severity": "MEDIUM",
+      "description": "Multiple H1 tags found (4)",
+      "category": "headings"
+    },
+    {
+      "ruleId": "missing-canonical",
+      "severity": "MEDIUM",
+      "description": "No canonical URL specified",
+      "category": "meta"
+    },
+    {
+      "ruleId": "missing-og-tags",
+      "severity": "LOW",
+      "description": "Missing Open Graph tags: og:title, og:description, og:image, og:url, og:type",
+      "category": "social"
+    },
+    {
+      "ruleId": "missing-twitter-tags",
+      "severity": "LOW",
+      "description": "Most Twitter Card tags are missing",
+      "category": "social"
+    },
+    {
+      "ruleId": "images-no-alt",
+      "severity": "LOW",
+      "description": "230 images missing alt text",
+      "category": "content"
+    }
+  ],
+  "metrics": {
+    "pagesAnalyzed": 94,
+    "totalPagesDiscovered": 94,
+    "titleLength": 71,
+    "descriptionLength": 169,
+    "hasKeywords": false,
+    "h1Count": 4,
+    "headingLevels": "h1, h2, h3, h4, h5, h6",
+    "hasCanonical": false,
+    "ogTagsPresent": 0,
+    "ogTagsTotal": 5,
+    "twitterTagsPresent": 0,
+    "imagesTotal": 2701,
+    "imagesWithoutAlt": 230,
+    "pagesMissingH1": 0,
+    "internalLinks": 6321,
+    "externalLinks": 15,
+    "averageWordCount": 76,
+    "pagesWithContent": 94,
+    "hasSitemap": true,
+    "hasRobotsMeta": false
+  },
+  "crawlData": {
+    "url": "https://cityhangaround.com/",
+    "title": "CityHangarounds – Discover Local Businesses, Deals, Events & City Guide"
+  }
+}
